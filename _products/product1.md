@@ -1,8 +1,8 @@
 ---
-title: Product 1 Name
-subtitle: Product 1 tagline here
-description: This is a product description
-product_code: ABC124
+title: EC6Net Vinyl Decal
+subtitle: Show you support for EC6Net on your vehicle
+description: This vinyl cut decal shows the EC6Net local and name
+product_code: EC6-1
 layout: product
 image: https://picsum.photos/id/10/600/480
 price: £1.99 + VAT
