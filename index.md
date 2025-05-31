@@ -1,6 +1,6 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: EC6Net Documentation
+subtitle: Learn about the EC6Net and get involved
 layout: page
 callouts: home_callouts
 show_sidebar: true
