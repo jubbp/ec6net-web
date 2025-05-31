@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Docs
+title: EC6Net Documentation
 menubar: docs_menu
 show_sidebar: false
 ---
 
-Bulma Clean Theme has many features available. The documentation has been spit into categories to make it easier to navigate through the various features. 
+Use this sections to familurise yourself with the EC6Net and how to participate in it.
 
-Find out how to install Bulma Clean Theme in your Jekyll project in the [Installation](/bulma-clean-theme/docs/getting-started/installation/) section.
