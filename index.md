@@ -2,8 +2,8 @@
 title: EC6Net Documentation
 subtitle: Learn about the EC6Net and get involved
 layout: docs
-callouts: home_callouts
-show_sidebar: true
+callouts: 
+show_sidebar: false
 ---
 
 # Introduction to EC6Net
