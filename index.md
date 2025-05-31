@@ -2,7 +2,6 @@
 title: EC6Net Documentation
 subtitle: Learn about the EC6Net and get involved
 layout: page
-callouts: 
 show_sidebar: false
 ---
 
