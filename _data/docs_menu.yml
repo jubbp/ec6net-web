@@ -1,23 +1,16 @@
-- label: Getting Started
+- label: Getting Involved
   items:
-    - name: Installation
-      link: /docs/getting-started/installation/
-    - name: Upgrading to v1
-      link: /docs/getting-started/upgrading-to-v1/
-    - name: Configuration
-      link: /docs/getting-started/configuration/
-    - name: Theming
-      link: /docs/getting-started/theming/
-    - name: Sidebar
-      link: /docs/getting-started/sidebar/
-    - name: Scripts
-      link: /docs/getting-started/scripts/
+    - name: Nets
+      link: /docs/get-involved/nets
+    - name: Parks on the Air
+      link: /docs/get-involved/pota
 
-
-- label: Software
+- label: Messaging
   items:
     - name: JS8Call
-      link: /docs/software
+      link: /docs/messagin/js8call
+    - name: APRS Messaging
+      link: /docs/messaging/aprs
 
 
 
