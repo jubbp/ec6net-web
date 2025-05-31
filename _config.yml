@@ -1,12 +1,12 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: EC6Net Documentation
+tagline: EC6Net
+email: vk6dev@gmail.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+  The documentation website for the EC6Net mutual assistance network
+baseurl: "/"
+url: "http://ec6net.devlanky.net"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
@@ -35,7 +35,7 @@ plugins:
   - kramdown-parser-gfm
   - jekyll-redirect-from
 
-exclude: 
+exclude:
   - Gemfile
   - clean-theme.gemspec
   - Gemfile.lock
@@ -50,7 +50,7 @@ livereload: true
 sass:
   style: compressed
   source_dir: _sass
-  # load_paths: 
+  # load_paths:
     # - node_modules
 
 #google_analytics: UA-code-here
@@ -79,7 +79,7 @@ highlighter: rouge
 footer_menu: example_footer_menu
 
 collections:
-  products: 
+  products:
     output: true
     layout: product
     image: https://picsum.photos/id/16/800/600
@@ -92,4 +92,3 @@ social:
   tiktok: https://www.tiktok.com/
   x: https://www.x.com/
   youtube: https://www.youtube.com/
-  
