@@ -6,7 +6,8 @@
       link: /docs/get-involved/nets
     - name: Parks on the Air
       link: /docs/get-involved/pota
-
+- name: Capabilities
+  link: /docs/capabilities
 - label: Messaging
   items:
     - name: JS8Call

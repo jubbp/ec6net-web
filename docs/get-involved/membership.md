@@ -11,10 +11,10 @@ toc: true
 
 Presently, the EC6Net is only a loose grouping of Amateur Radio Operators in VK6.
 
-We are not and have not plans to become an incorporated association as many grousp do. 
+We are not and have no plans to become an incorporated association as many groups do.
 
 All operations are self funded by the AR operators involved.
 
 There as no subs to pay. We would much rather your become actively involved than pay a membership due and sit back on the side.
 
-The best way to become an EC6Net member is to take [part in our nets\(/get-involved/nets/).
+The best way to become an EC6Net member is to take [part in our nets](/get-involved/nets/).
