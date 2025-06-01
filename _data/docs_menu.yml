@@ -1,5 +1,7 @@
 - label: Getting Involved
   items:
+    - name: Membership
+      link: /docs/get-involved/membership
     - name: Nets
       link: /docs/get-involved/nets
     - name: Parks on the Air
