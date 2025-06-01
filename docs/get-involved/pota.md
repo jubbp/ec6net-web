@@ -4,7 +4,7 @@ subtitle: Learn about operating portable
 layout: page
 show_sidebar: false
 menubar: docs_menu
-toc: true
+toc: false
 ---
 
 # POTA - Parks on the Air
