@@ -13,7 +13,6 @@ A Amateur Radio net is usually a scheduled meeting on the radio. Nets allow us t
 
 By Participating in a net you confirm your ability to communicate with and your willingness to be part of the group.
 
-
 ## EC6Net scheduled Nets
 
 ### JS8Call Net and Test
