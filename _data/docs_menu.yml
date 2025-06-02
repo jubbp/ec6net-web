@@ -14,6 +14,15 @@
       link: /docs/messagin/js8call
     - name: APRS Messaging
       link: /docs/messaging/aprs
-
+- label: Reference
+  items:
+    - name: Field Guides
+      link: /docs/references/fieldguides
+    - name: Manuals
+      link: /docs/references/manuals
+    - name: Software
+      link: /docs/references/software
+    - name: Standards
+      link: /docs/references/standards
 
 
