@@ -17,3 +17,10 @@ Meshtastic does not require a license and so is available to many more people in
 I have had no experience with meshtastic but have some devices on the way so will update this page with my experiences.
 
 The Comms Channel have developed a BBS for meshtastic. 
+
+## References
+
+- [Meshtastic.au](https://meshtastic.au/wp/)
+  -  A very good place to start with meshtastic in Australia
+- [meshtastic.org](https://meshtastic.org)
+  -  The official Meshtastic project
