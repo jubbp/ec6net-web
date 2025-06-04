@@ -68,7 +68,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Phil VK6DEV"
       layout: post
       image: https://picsum.photos/id/16/800/600
       show_sidebar: true
