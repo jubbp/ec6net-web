@@ -9,11 +9,11 @@ published: true
 canonical_url: http://ec6net.devlanky.net/messaging/2025/06/07/meshtastic-desert.html
 ---
 
-It's official, I live in a Mestastic Desert!
+It's official, I live in a Meshtastic Desert!
 
 Today, we took a drive down to Busselton for reasons other than communications and I decided to take along the Lilygo T-beam. I though I might be nice to check if there were any other mesh nodes in the south west.
 
-I disconnected the node "DEV2" from the MQTT server and installed i on the dask board of the car.
+I disconnected the node "DEV2" from the MQTT server and installed it on the dask board of the car.
 
 After drive about 40 minutes to and around Busselton, then back home again, I picked up exactly zero other nodes. About what I expected gieven the only south west nodes on the meshmap are mine.
 
