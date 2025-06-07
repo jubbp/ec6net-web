@@ -68,7 +68,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Phil VK6DEV"
       layout: post
       image: https://picsum.photos/id/16/800/600
       show_sidebar: true
@@ -85,10 +85,10 @@ collections:
     image: https://picsum.photos/id/16/800/600
     show_sidebar: false
 
-social:
-  facebook: https://www.facebook.com/
-  instagram: https://www.instagram.com/
-  threads: https://www.threads.net/
-  tiktok: https://www.tiktok.com/
-  x: https://www.x.com/
-  youtube: https://www.youtube.com/
+#social:
+#  facebook: https://www.facebook.com/
+#  instagram: https://www.instagram.com/
+#  threads: https://www.threads.net/
+#  tiktok: https://www.tiktok.com/
+#  x: https://www.x.com/
+#  youtube: https://www.youtube.com/#
