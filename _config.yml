@@ -10,7 +10,7 @@ url: "http://ec6net.devlanky.net"
 permalink: pretty
 #favicon: /path/to/favicon.png
 #gh_sponsor: chrisrhymes
-#hide_share_buttons: true
+hide_share_buttons: true
 theme_color: '#FF5F15'
 #fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
