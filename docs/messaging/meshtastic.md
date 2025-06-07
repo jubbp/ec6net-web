@@ -18,6 +18,8 @@ I have had no experience with meshtastic but have some devices on the way so wil
 
 The Comms Channel have developed a BBS for meshtastic. 
 
+![meshtastic](/assets/lora-topology-2-c80684f1eafdf2a71fbaf26e494fb26d.png)
+
 ## References
 
 - [Meshtastic.au](https://meshtastic.au/wp/)
