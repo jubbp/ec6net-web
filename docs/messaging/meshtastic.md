@@ -1,11 +1,11 @@
-——-
+---
 title: Meshtastic
 subtitle: Short range off grid messaging
 layout: page
 show_sidebar: false
 menubar: docs_menu
 toc: true
-——-
+---
 
 
 ## Introduction
@@ -21,6 +21,6 @@ The Comms Channel have developed a BBS for meshtastic.
 ## References
 
 - [Meshtastic.au](https://meshtastic.au/wp/)
-  -  A very good place to start with meshtastic in Australia
+  - A very good place to start with meshtastic in Australia
 - [meshtastic.org](https://meshtastic.org)
-  -  The official Meshtastic project
+  - The official Meshtastic project
