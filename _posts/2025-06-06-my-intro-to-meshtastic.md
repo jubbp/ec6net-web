@@ -4,7 +4,7 @@ title:  "My Introduction to Meshtastic"
 date:   2025-06-06 10:50:07
 categories: messaging
 description: "My initial thoughts on meshtastic"
-image: ''
+image: '/assets/lilygoT-Beam.jpeg'
 published: true
 canonical_url: http://ec6net.devlanky.net/messaging/2025/06/06/my-intro-to-meshtastic.html
 ---
