@@ -17,7 +17,7 @@ I disconnected the node "DEV2" from the MQTT server and installed it on the dask
 
 After drive about 40 minutes to and around Busselton, then back home again, I picked up exactly zero other nodes. About what I expected gieven the only south west nodes on the meshmap are mine.
 
-Following our return home and feeding ourselves, I took the opportunity to head out to a local lookout in Bunbury. I left the 3D printiner printing a case for the T-Beam and setup the same as i did this morning. After driving through Bunbury to the lookout and setting the T-Beam on a post for about 20 mins, I recieved zero stations again.
+Following our return home and feeding ourselves, I took the opportunity to head out to a local lookout in Bunbury. I left the 3D printer printing a case for the T-Beam and setup the same as i did this morning. After driving through Bunbury to the lookout and setting the T-Beam on a post for about 20 mins, I recieved zero stations again.
 
 I returned home, a little deflated but with my expectations met. On returning home, I found the 3D print had failed and I had to start it again.
 
