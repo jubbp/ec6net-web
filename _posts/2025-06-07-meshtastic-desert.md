@@ -4,7 +4,7 @@ title:  "Meshtastic Desert"
 date:   2025-06-07 15:30:07
 categories: messaging
 description: "I live in a Meshtastic Desert"
-image: ''
+image: '/assets/meshtastic-desert.jpeg'
 published: true
 canonical_url: http://ec6net.devlanky.net/messaging/2025/06/07/meshtastic-desert.html
 ---
