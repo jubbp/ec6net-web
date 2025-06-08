@@ -15,8 +15,10 @@ This week I received in the mail my first Meshtastic devices. Meshtatic has been
 
 I purchase a couple of Lilygo devices.
 
-- Lilygo TTGo
+- Lilygo Lora32
+  ![lilygo lora32](../assets/LillygoLora32.jpeg)
 - Lillygo TBeam
+  ![Lilygo T-Beam](../assets/lilygoT-Beam.jpeg)
 
 ## Initial Setup
 

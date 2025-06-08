@@ -11,6 +11,8 @@ canonical_url: http://ec6net.devlanky.net/messaging/2025/06/07/meshtastic-desert
 
 It's official, I live in a Meshtastic Desert!
 
+![Meshtastic Desert](../assets/meshtastic-desert.jpeg)
+
 Today, we took a drive down to Busselton for reasons other than communications and I decided to take along the Lilygo T-beam. I though I might be nice to check if there were any other mesh nodes in the south west.
 
 I disconnected the node "DEV2" from the MQTT server and installed it on the dask board of the car.
