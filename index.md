@@ -23,16 +23,7 @@ Email [vk6dev@gmail.com](mailto:vk6dev@gmail.com) for further information.
 
 Participate in [our nets](/docs/get-involved/nets)
 
-Read the Documentation
+Read the [Documentation](/docs/)
 
 
-## Traffic
 
-What information will we need to pass between operators? Do we need any standard formats?
-
-- Weather
-- Road Conditions
-- Wellbeing / Welfare
-- Station Status
-- Assitance Request
-- Forward Message ??

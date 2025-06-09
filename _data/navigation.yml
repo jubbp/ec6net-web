@@ -17,5 +17,7 @@
 #      link: /example-recipe/
 #    - name: Showcase
 #      link: /showcase/
+- name: Unsorted
+  link: /unsorted/
 - name: Blog
   link: /blog/
