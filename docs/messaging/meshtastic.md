@@ -20,9 +20,14 @@ The Comms Channel have developed a BBS for meshtastic.
 
 ![meshtastic](/assets/lora-topology-2-c80684f1eafdf2a71fbaf26e494fb26d.png)
 
+## Frequencies
+
+Meshtastic devices are available in a selection of frequencies and you ensure your device works on the 915Mhz band for use in Australia
+
 ## References
 
-- [Meshtastic.au](https://meshtastic.au/wp/)
-  - A very good place to start with meshtastic in Australia
-- [meshtastic.org](https://meshtastic.org)
-  - The official Meshtastic project
+- [Meshtastic.au](https://meshtastic.au/wp/) A very good place to start with meshtastic in Australia
+- [meshtastic.org](https://meshtastic.org) The official Meshtastic project
+- [meshmap.net](https://meshmap.net) A map showing online nodes.
+
+[![Image Alt Text](https://img.youtube.com/vi/ZslWyVzqJPM/0.jpg](https://youtube.com/watch?v=ZslWyVzqJpm) 
