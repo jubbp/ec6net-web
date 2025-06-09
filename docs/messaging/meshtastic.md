@@ -30,4 +30,4 @@ Meshtastic devices are available in a selection of frequencies and you ensure yo
 - [meshtastic.org](https://meshtastic.org) The official Meshtastic project
 - [meshmap.net](https://meshmap.net) A map showing online nodes.
 
-[![Image Alt Text](https://img.youtube.com/vi/ZslWyVzqJPM/0.jpg)](https://youtube.com/watch?v=ZslWyVzqJpm) 
+[![Image Alt Text](https://img.youtube.com/vi/ZsIWyVzqJPM/0.jpg)](https://youtube.com/watch?v=ZsIWyVzqJPM) 
