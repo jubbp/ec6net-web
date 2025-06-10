@@ -19,6 +19,16 @@ By Participating in a net you confirm your ability to communicate with and your 
 
 Thursdays 2000H JS8Call 40m and/or 80m
 
+Thursday 2000H 4078Mhz JS8Call Checkin
+
+- Send Message to EC6NET group
+- [ TODO: Work out format of Checkin ]
+
+Thursday 2010H Net/Discussions
+
+- Traffic
+- News / Announcements 
+
 ### HF Voice Call Net and Test
 
-Wednesdays 2000H 3.5900 LSB
+Daily 2000H 3.5900 LSB

@@ -2,7 +2,7 @@
 title: EC6Net 
 subtitle: Western Australian Mutual Assistance Network
 layout: page
-show_sidebar: false
+show_sidebar: true
 ---
 
 ## Introduction to EC6Net

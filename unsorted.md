@@ -24,9 +24,9 @@ What information will we need to pass between operators? Do we need any standard
 Can we gather information from operators and store for later retrieval using multiple transmission modes??
 
 Solutions that may exist already
-JS8Call monitor??
-APRSd
-Packet BBS
+- JS8Call monitor??
+- APRSd
+- Packet BBS
 
 
 
