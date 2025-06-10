@@ -1,4 +1,4 @@
-—--
+---
 title: Unsorted 
 subtitle: Unsorted Thoughts
 layout: page
