@@ -7,8 +7,6 @@ show_sidebar: false
 
 ## Unsorted Thoughts with nowhere else to go
 
-
-
 ## Traffic
 
 What information will we need to pass between operators? Do we need any standard formats?
@@ -29,4 +27,6 @@ Solutions that may exist already
 JS8Call monitor??
 APRSd
 Packet BBS
+
+
 
