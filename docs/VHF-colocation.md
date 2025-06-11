@@ -4,11 +4,13 @@ subtitle: Locating 2 VHF radios on one site
 layout: page
 show_sidebar: false
 menubar: docs_menu
-toc: true
+toc: false
 ---
 
 How can we colocate 2 VHF radios at our home QTH to allow use of APRS or packet stations in
 close proximity to our home VHF station.
+
+The following is a collection of notes on the subject. Its not a finished document at the moment.
 
 ## Operating a Digipeater near a voice repeater
 
@@ -47,7 +49,11 @@ After installation, it's important to test the system to ensure proper performan
 ### References
 
 [aprs.org digibuplexing.pdf](https://www.aprs.org/txt/digiduplexing.pdf)
+
 [VHF duplexer on Aliexpress](https://www.aliexpress.com/item/1005005284394150.html)
+
 [Ham Radio DX video - Cheap Duplexer](https://www.youtube.com/watch?v=I_Trk9OKG38&t=797s)
+
 [VHF Repeater duplexer Alibaba](https://www.alibaba.com/product-detail/136-174MHz-VHF-0-6MHz-Duplexer_1600083924879.html?spm=a2700.shop_plgr.41413.35.30e37121rBZMJx)
+
 [Calibrate a Duplexer with a NanoVNA](https://www.youtube.com/watch?v=TbEK4v_3Xuo)
