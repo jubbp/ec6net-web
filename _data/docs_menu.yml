@@ -18,6 +18,8 @@
       link: /docs/messaging/meshtastic  
 - label: Reference
   items:
+    - name: VHF Colocation
+      link: /docs/Colocation
     - name: Field Guides
       link: /docs/references/fieldguides
     - name: Manuals
