@@ -48,7 +48,7 @@ After installation, it's important to test the system to ensure proper performan
 
 ### References
 
-[aprs.org digibuplexing.pdf](https://www.aprs.org/txt/digiduplexing.pdf)
+[aprs.org digiduplexing.pdf](https://www.aprs.org/txt/digiduplexing.pdf)
 
 [VHF duplexer on Aliexpress](https://www.aliexpress.com/item/1005005284394150.html)
 
