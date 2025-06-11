@@ -19,7 +19,7 @@
 - label: Reference
   items:
     - name: VHF Colocation
-      link: /docs/Colocation
+      link: /docs/VHF-colocation
     - name: Field Guides
       link: /docs/references/fieldguides
     - name: Manuals
