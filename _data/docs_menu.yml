@@ -14,8 +14,12 @@
       link: /docs/messagin/js8call
     - name: APRS Messaging
       link: /docs/messaging/aprs
+    - name: Packet Radio
+      link: /docs/messaging/packet
+    - name: Winlink
+      link: /docs/messaging/winlink
     - name: Meshtastic
-      link: /docs/messaging/meshtastic  
+      link: /docs/messaging/meshtastic
 - label: Reference
   items:
     - name: VHF Colocation
