@@ -57,3 +57,5 @@ After installation, it's important to test the system to ensure proper performan
 [VHF Repeater duplexer Alibaba](https://www.alibaba.com/product-detail/136-174MHz-VHF-0-6MHz-Duplexer_1600083924879.html?spm=a2700.shop_plgr.41413.35.30e37121rBZMJx)
 
 [Calibrate a Duplexer with a NanoVNA](https://www.youtube.com/watch?v=TbEK4v_3Xuo)
+
+[Diplexers in your vehicle video](https://www.youtube.com/watch?v=CJvJBDEDGiQ)
