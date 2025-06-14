@@ -4,7 +4,7 @@ title:  "Is APRS better then Meshtastic"
 date:   2025-06-13 11:48:07
 categories: messaging
 description: "My take on the reletive benefits of APR and Meshtastic"
-image: ''
+image: '/assets/images/APRSvsMESH.png'
 published: true
 canonical_url: http://ec6net.devlanky.net/messaging/2025/06/13/is-APRS-better-than-meshtastic.html
 ---
