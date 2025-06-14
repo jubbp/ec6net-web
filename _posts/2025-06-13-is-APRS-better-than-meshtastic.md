@@ -6,7 +6,7 @@ categories: messaging
 description: "My take on the reletive benefits of APR and Meshtastic"
 image: ''
 published: true
-canonical_url: http://ec6net.devlanky.net/messaging/2025/06/14/is-APRS-better-than-meashtastic.html
+canonical_url: http://ec6net.devlanky.net/messaging/2025/06/13/is-APRS-better-than-meshtastic.html
 ---
 
 While gearing up to test Meshtastic over the last couple of weeks, an interesting thought kept coming into my mind. Meashtastic seems very simlar to APRS messaging.
