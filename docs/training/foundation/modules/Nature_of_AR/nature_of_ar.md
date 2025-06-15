@@ -3,7 +3,7 @@ title: Nature of Amateur Radio
 subtitle: What is Amateur Radio. The Basics.
 layout: page
 show_sidebar: false
-menubar: training_menu
+menubar: foundation_menu
 toc: false
 ---
 

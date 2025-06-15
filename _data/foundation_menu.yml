@@ -1,0 +1,7 @@
+- label: Foundation Course
+  items:
+    - name: Introduction
+      link: /docs/training/foundation
+    - name: The Nature of Amatuer Radio
+      link: /docs/training/foundation/modules/Nature_of_AR/Nature_of_ar/
+    

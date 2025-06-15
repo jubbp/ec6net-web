@@ -3,7 +3,7 @@ title: Foundation License
 subtitle: Training Package to get you through the Foundation License Test
 layout: page
 show_sidebar: false
-menubar: training_menu
+menubar: foundation_menu
 toc: false
 ---
 
