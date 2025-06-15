@@ -30,3 +30,27 @@ Solutions that may exist already
 
 
 
+## What sort of assistance??
+
+- Technical Support
+- Information sharing
+- News unfiltered by “main stream” sources
+- Travel Assistance
+- General Welfare 
+- Commoradery
+- Passing Messages to Agencies
+- AR Training Resources
+ 
+## Training Activities
+
+- Nets
+- Field Days / POTA / SOTA Outings
+- RDF
+- Hiking
+
+## Integrations
+
+- Packet BBS available via AREDN and Meshtastic and APRS
+- Software Stack
+- Distributed?
+ 
