@@ -41,3 +41,9 @@ Used to pass only the desired band a reject others
 [15m Filter](https://www.aliexpress.us/item/32887634191.html?spm=a2g0o.productlist.main.7.4a9dVZ5iVZ5i8a&algo_pvid=3c649996-93c7-42f6-84d9-55066c061c23&algo_exp_id=3c649996-93c7-42f6-84d9-55066c061c23-3&pdp_npi=4%40dis%21USD%2178.00%2160.84%21%21%2178.00%21%21%402103250d16971341500044503e9f5e%2165671986073%21sea%21US%210%21AB&curPageLogUid=ilA5kNDoAXIO&gatewayAdapt=4itemAdapt)
 
 [10m Filter](https://www.aliexpress.us/item/1005003804547799.html?spm=a2g0o.productlist.main.3.7f03vyDovyDosO&algo_pvid=367ca153-fb8d-48e2-8408-f9d0bfccaab2&algo_exp_id=367ca153-fb8d-48e2-8408-f9d0bfccaab2-1&pdp_npi=4%40dis%21USD%2158.99%2147.19%21%21%2158.99%21%21%402101e9d416971341953908633e43fd%2112000027224756197%21sea%21US%210%21AB&curPageLogUid=fCgTH1DU2XQm&gatewayAdapt=4itemAdapt)
+
+## Suitcase Repeater
+
+Build a HT based repeater in a case for extending coverage.
+
+[Suitcase Repeater](https://www.youtube.com/watch?v=mscSu7FC86E)
