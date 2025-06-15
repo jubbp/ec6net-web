@@ -19,4 +19,4 @@ Amateur Radio in Australia is administered by the ACMA, The Australian Communica
 
 Syllabus items covered by this module.
 
-- [1.1 Nature of Amateur Radio](../../syllabus.md#13-allocation-of-frequency-bands)
+- [1.1 Nature of Amateur Radio](../../syllabus/#13-allocation-of-frequency-bands)

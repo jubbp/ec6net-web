@@ -17,6 +17,8 @@ A copy of the syllabus is [found here](./assets/ACMA%20recognition%20certificate
 
 - Recall that amateur radio is intended to facilitate the hobby of radiocommunications.
 
+[Course Link](./modules/Nature_of_AR/)
+
 #### 1.2 Types of Licenses
 
 - Recall that amateur radio activities are authorised under the Amateur Class Licence and the Amateur LCD for beacon and repeater stations. Other forms of licences authorise different types of radiocommunications, such as citizens band (CB), land mobile, point-to-point links and broadcasting.
