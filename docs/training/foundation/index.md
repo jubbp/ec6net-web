@@ -13,3 +13,4 @@ Welcome to the Foundation License Course. This course is designed to prepare you
 
 The course has several modules which splits the course into manageable learning experiences.
 
+- [Nature of Amateur Radio](./modules/Nature_of_AR/nature_of_ar.md)
