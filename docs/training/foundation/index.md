@@ -289,7 +289,7 @@ distorted output and interference to adjacent frequencies.
 - Recall the purpose of the following controls: AF Gain, RF Gain,
 Squelch, Mode, VFO, RIT, Band and Carrier control.
 
-#### 4.11 Receiver terms 
+#### 4.11 Receiver terms
 
 - Recall the meaning of the terms: sensitivity, selectivity and
 stability as they apply to a receiver.
@@ -314,7 +314,7 @@ radiocommunications.
 co-axial cable terminated with co-axial connectors.
 - Recall the continuity and insulation testing procedure.
 
-#### 5.4 Antenna purpose 
+#### 5.4 Antenna purpose
 
 - Recall that the purpose of an antenna is to convert electrical
 signals into radio waves, and vice versa.
@@ -330,7 +330,7 @@ antenna and the frequency of operation.
 dipole, 1/4 wave vertical ground plane, Yagi, and end-fed
 half-wave antenna.
 
-#### 5.7 Choice of antenna 
+#### 5.7 Choice of antenna
 
 - Recall that the on-air performance of an amateur station can
 be improved significantly by the correct choice of antenna.
@@ -409,3 +409,301 @@ receiver sensitivity.
 - Recall that VHF and UHF signals are obstructed by hills and
 large structures.
 
+#### 6.5 Long distance communications on VHF and UHF
+
+- Recall that unusual atmospheric conditions may at times
+provide extended range.
+
+#### 6.6 The ionosphere
+
+- Recall, using supplied reference material, that the ionosphere
+comprises layers of ionised gas at varying heights above
+ground.
+
+#### 6.7 Factors affecting HF propagation
+
+- Recall that ionospheric propagation is dependent on time of
+day, season, frequency and solar activity.
+6.8 Ionospheric refraction
+
+#### 6.8 Ionspheric Refraction
+
+- Recall that long-distance HF communication relies on
+propagation by ionospheric refraction.
+
+### 7. Interference
+
+#### 7.1 Sources of radio interference
+
+- Recall that broadcast radio and television receivers can suffer
+interference from local sources, including electrical and
+electronic equipment and high voltage electricity supply lines,
+as well as from than radiocommunications transmitters.
+
+#### 7.2
+
+- Recall that interference to other radiocommunications
+services, including broadcast radio and television reception,
+can be caused by the faulty operation of
+radiocommunications transmitters.
+
+#### 7.3
+
+- Recall that radiocommunications transmitters can be the
+source (but not necessarily the cause) of interference to
+nearby electronic and radio equipment.
+- Recall that technical solutions can generally resolve the
+interference.
+
+#### 7.4 Interference and electromagnetic compatibility (EMC)
+
+- Recall that the ability of electronic or radio equipment to
+operate properly, without interference, in the presence of
+electromagnetic radiation, such as radiocommunications
+transmissions, refers to the EMC of the equipment. This is also
+known as the equipment’s radiofrequency immunity.
+
+#### 7.5 Interference pathways
+
+- Recall that interference resulting from EMC problems may be
+dependent on the power, frequency and type of emission of
+the radiocommunications transmitter and its distance from the
+affected equipment.
+
+#### 7.6 Amateur transmissions and EMC
+
+- Recall that interference resulting from EMC problems may be
+dependent on the power, frequency and type of emission of
+the radiocommunications transmitter and its distance from the
+affected equipment.
+
+#### 7.7 Antenna location and EMC
+
+- Recall that interference resulting from EMC problems can be
+minimised by careful selection and siting of antennas.
+
+#### 7.8 Transmission modes and interference
+
+- Recall that some transmission modes are more likely than
+others to cause objectionable interference to broadcast radio
+and television reception and to telephones.
+
+#### 7.9 Filters
+
+- Recall that the immunity of most types of equipment can be
+increased by fitting suitable filters in external cabling, such as
+antenna, power supply or interconnections between
+equipment.
+- Recall that the filters should be fitted as close to the affected
+devices as possible.
+
+#### 7.10 Simple ’choke’ filter
+
+- Recall how to construct a simple RF ‘choke’ filter using a ferrite
+rod or toroid.
+
+#### 7.11 RF earthing
+
+- Recall that the function of the RF earth connection in an
+amateur station is to provide a path to ground to minimise RF
+currents entering the mains earth system and causing
+interference to other electronic equipment.
+- Identify, from supplied diagrams, the symbol representing an
+earth connection.
+
+#### 7.12 Diplomacy and EMC
+
+- Recall that EMC problems have the potential for causing
+neighbourhood disputes. Understand the need for diplomacy,
+the sources of advice available and the role of the ACMA.
+
+#### 7.13 Harmful interference
+
+- Recall that a licensee must not operate an amateur station if its
+operation causes harmful interference to radiocommunication
+services.
+
+### 8. Operating practices and procedures
+
+#### 8.1 Equipment practices
+
+- Demonstrate connecting a transceiver safely to a power
+supply, microphone, VSWR meter, antenna matching unit,
+transmission line and antenna.
+
+#### 8.2 Knowledge of the frequencies and emissions that may be used under an ACMA recognition certificate (Foundation)
+
+- Recall the relevant band plans, frequencies and emissions
+that may be used by the holder of an ACMA recognition
+certificate (Foundation) under the Amateur Class Licence.
+- Recall that amateur band plans, by agreement, play an
+important part in managing interference between amateur
+stations.
+- Relevant reference material will be supplied.
+
+#### 8.3 Requirement not to transmit on frequencies in use
+
+- Recall and demonstrate the requirement to listen on a
+frequency before transmitting to ensure that interference will
+not be caused to other stations using the frequency.
+
+#### 8.4 Operating practices
+
+- Demonstrate, by making on-air contacts using appropriate
+calling procedures, the correct operation of HF and VHF/UHF
+transmitter/receivers.
+- Demonstrate the use of a signal strength meter to make
+meaningful signal reports.
+
+#### 8.5 Operating through a repeater
+
+- Recall and demonstrate, using supplied reference material, the
+correct use of voice repeaters, including the use of continuous
+tone-coded squelch system (CTCSS) and dual tone multiple
+frequency (DTMF) access control systems.
+
+#### 8.6
+
+- Recall and demonstrate the need to leave adequate breaks
+between transmissions when using voice repeaters.
+
+#### 8.7 Making a ‘CQ’ call and changing to a working frequency
+
+- Demonstrate an all-stations (CQ) call on HF and VHF/UHF,
+making a contact and initiating a change of frequency (QSY)
+from the calling channel to a working channel.
+
+#### 8.8 Abbreviations
+
+- Recall that there are internationally recognised abbreviations
+commonly used in communications.
+
+#### 8.9 Transmitter measurements
+
+- Recall and demonstrate the measurement of the output
+power of a transmitter.
+- Measure the VSWR using a suitable measuring device.
+
+#### 8.10 Correcting simple equipment maladjustments
+
+- Recall and demonstrate the correction of simple problems
+such as high VSWR, excessive modulation, and excessive RF
+output power.
+
+### 9. Safety
+
+#### 9.1 Dangerous voltages
+
+- Recall that high voltages and high currents are dangerous.
+
+#### 9.2 Electrical safety – equipment to be approved
+
+- Recall that any mains-operated equipment sold, hired or
+supplied must be approved by an electricity authority or other
+relevant authority.
+- Recall that approved equipment will have an approval label.
+
+#### 9.3 Awareness of state electricity authority requirements
+
+- Recall that it is necessary to check relevant requirements
+regarding unqualified people wiring and testing mains-
+operated equipment. This includes leads, plugs and sockets
+connected to the household mains supply.
+
+#### 9.4 Electrical earthing
+
+- Recall why most mains-operated equipment should have a
+safety earth connection.
+
+#### 9.5 Fuses
+
+- Recall that fuses prevent excessive currents that may cause
+heat damage or fires.
+
+#### 9.6 Correct fuse to be used
+
+- Recall that a correct fuse must be fitted to all electrical
+equipment.
+
+#### 9.7 Replacing fuses
+
+- Recall the precautions to be taken when replacing faulty fuses
+including the selection of a fuse rated in accordance
+with an equipment manufacturer’s specifications or the
+requirements of an electricity supply authority.
+
+#### 9.8 Station layout for physical safety
+
+- Recall that the layout of an amateur station should take
+account of physical safety issues.
+- Recall that trailing cables are trip hazards and dangerous.
+
+#### 9.9 Power-lead safety
+
+- Recall that frayed or damaged power leads are dangerous and
+should be replaced or repaired by an authorised person.
+
+#### 9.10 Know location and desirability of a Mains OFF switch
+
+- Recall the desirability for a clearly marked switch to turn off
+all station equipment in an emergency.
+
+#### 9.11 Actions to be taken in the event of an accident involving electricity
+
+- Recall that, in the event of an accident involving electricity, the
+first action is to safely switch off the power.
+
+#### 9.12 Electric shocks
+
+- Recall that a casualty of electric shock must not be touched
+unless the power has been switched off.
+
+#### 9.13 Call for help – use of resuscitation techniques
+
+- Recall that emergency services need to be called
+immediately and that cardiopulmonary resuscitation (CPR)
+may need to be administered.
+
+#### 9.14 Battery safety
+
+- Recall that batteries contain chemicals and emit fumes and
+may explode if punctured or exposed to flames or sparks.
+
+##### 9.15 Antennas and safety
+
+- Recall that it is important for all people (and animals) to be
+kept at a safe distance from antennas.
+
+#### 9.16 Radio waves can be dangerous
+
+- Recall that electromagnetic radiation (EMR) can be dangerous
+and higher frequencies and power levels and proximity to the
+source increase the danger.
+
+#### 9.17
+
+Recall that a safe distance from an antenna depends on the
+ERP, operating frequency, antenna type and orientation.
+
+#### 9.18 Antenna erection
+
+Recall that antenna erection is potentially dangerous and
+should be carried out by suitably qualified people.
+
+#### 9.19 Securing and siting antennas
+
+- Recall that antennas and their fittings must be suitably located
+and secured and must never be connected to, or sited close to,
+mains poles and lines.
+
+#### 9.20 Lightning protection
+
+- Recall that it is good practice to install lightning protection on
+antennas, disconnect antennas from any radio equipment before a thunderstorm and never operate an amateur radio
+during a thunderstorm.
+
+#### 9.21 Safe use of headphones
+
+- Recall that excessive volume when wearing headphones can
+cause damage to human hearing.
+Assessment objectives
