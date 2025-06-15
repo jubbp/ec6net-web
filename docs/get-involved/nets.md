@@ -9,7 +9,7 @@ toc: false
 
 ## Introduction to Nets
 
-A Amateur Radio net is usually a scheduled meeting on the radio. Nets allow us to train our skills and test our ability communicate.
+An Amateur Radio net is usually a scheduled meeting on the radio. Nets allow us to train our skills and test our ability communicate.
 
 By Participating in a net you confirm your ability to communicate with and your willingness to be part of the group.
 
@@ -32,3 +32,6 @@ Thursday 2010H Net/Discussions
 ### HF Voice Call Net and Test
 
 Daily 2000H 3.5900 LSB
+
+Net Control will call for stations to check-in every minute from 2000-2005H
+

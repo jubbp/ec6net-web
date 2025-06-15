@@ -1,0 +1,8 @@
+- label: Amateur Radio
+  items:
+    - name: Foundation License
+      link: /docs/training/foundation
+    - name: Standard License
+      link: /docs/training/standard
+    - name: Advanced License
+      link: /docs/training/advanced
