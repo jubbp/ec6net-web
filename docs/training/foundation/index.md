@@ -330,3 +330,82 @@ antenna and the frequency of operation.
 dipole, 1/4 wave vertical ground plane, Yagi, and end-fed
 half-wave antenna.
 
+#### 5.7 Choice of antenna 
+
+- Recall that the on-air performance of an amateur station can
+be improved significantly by the correct choice of antenna.
+- Identify, using supplied reference material, the symbol for an
+antenna.
+
+#### 5.8 Antenna directional characteristics
+
+-Recall that the polarisation and directivity of an antenna is
+determined by its physical construction and orientation.
+
+#### 5.9 Polarisation
+
+- Recall the meaning of the terms: polarization, omni-directional,
+bi-directional, unidirectional and gain as they apply to
+antennas.
+
+#### 5.10 Effective radiated power (ERP)
+
+- Recall that ERP is the product of transmitter power and
+antenna gain.
+- Recall that antenna gain is generally expressed in decibels
+
+#### 5.11 Antenna matching
+
+- Recall the need to match an antenna to a transmission line
+and to minimise the Voltage Standing Wave Ratio (VSWR).
+
+#### 5.12 Antenna tuning unit
+
+- Recall the uses, purposes and adjustment of a typical manual
+ATU.
+
+#### 5.13 Baluns
+
+- Recall that when feeding a balanced antenna with an
+unbalanced transmission line (co-axial cable), the preferred
+practice is to use a balun.
+
+#### 5.14 Voltage standing wave ratios (VSWR)
+
+- Recall the correct placement, use and adjustment of an VSWR
+meter.
+
+#### 5.15 Acceptable VSWR
+
+- Recall that an VSWR equal to, or less than, 1.5 indicates a
+satisfactory antenna match.
+
+#### 5.16 Testing transmitters
+
+- Recall that when testing a transmitter, a non-radiating load
+(dummy load) is commonly used to prevent a signal from
+being radiated.
+
+### 6. Propagation
+
+#### 6.1 Propagation basics
+
+- Recall that radio waves travel in straight lines, unless diffracted,
+reflected or refracted.
+
+#### 6.2 Effect of distance on radio waves
+
+- Recall that radio waves get weaker with distance as they
+propagate from the antenna.
+
+#### 6.3 Communication range
+
+- Recall that communication range at VHF/UHF is dependent
+on antenna height, a clear path, transmitter power and
+receiver sensitivity.
+
+#### 6.4 Effect of obstacles and structures on VHF and UHF signals
+
+- Recall that VHF and UHF signals are obstructed by hills and
+large structures.
+
