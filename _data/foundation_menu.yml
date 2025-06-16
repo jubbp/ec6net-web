@@ -1,4 +1,4 @@
-- label: Foundation Course
+- label: Foundation Course Outline
   items:
     - name: Introduction
       link: /docs/training/foundation
@@ -6,9 +6,7 @@
       link: /docs/training/foundation/modules/Nature_of_AR/Nature_of_ar/
     - name: Technical Basics
       link: /docs/training/foundation/modules/technical-basics
-    - name: Operating Procedures
-      link: /docs/training/foundation/modules/operating-procedures
-    - name: Transmittes and Recievers
+    - name: Transmitters and Recievers
       link: /docs/training/foundation/modules/tramitters_recievers 
     - name: Propagation
       link: /docs/training/foundation/modules/propagation 
@@ -16,5 +14,9 @@
       link: /docs/training/foundation/modules/interference
     - name: Safety
       link: /docs/training/foundation/modules/safety
+    - name: Operating Procedures
+      link: /docs/training/foundation/modules/operating-procedures
     - name: Assessment Tips
       link: /docs/training/foundation/modules/assessment
+    - name: Return to Training Menu
+      link: /docs/training

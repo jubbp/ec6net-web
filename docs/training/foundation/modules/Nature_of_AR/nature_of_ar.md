@@ -28,9 +28,9 @@ The ACMA allocates specific bands for services such as, broadcasting, aeronautic
 
 ## License Conditions
 
-Amateur Radio is authorised under the *Amateur Class License (2024)* and the *Amatuer LCD for Beacon and repeater stations*. Amateur stations are also subject the the conditions of the *Radiocommunications Act 1992*.
+Amateur Radio is authorised under the **Amateur Class License (2024)** and the **Amatuer LCD for Beacon and repeater stations**. Amateur stations are also subject the the conditions of the **Radiocommunications Act 1992**.
 
-The purpose of the Amateur Class License is to facilitate *self-training in radiocommunications, communications between amateurs and technical investigations into radiocommunications tehnologies*.
+The purpose of the Amateur Class License is to facilitate *self-training in radiocommunications, communications between amateurs and technical investigations into radiocommunications technologies*.
 
 Amateur class operators *are not permitted* to communicate with other radio users unless in relation to a distress or emergency situation.
 
