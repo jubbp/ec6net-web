@@ -24,3 +24,7 @@ Each section provides sample questions that might be in the assessment. Use thes
 While readin through the material, you will notice some parts **are bolded.** It is suggested that you pay careful attention to this information.
 
 [Next -> The Nature of Amateur Radio](./modules/nature_of_ar/)
+
+---
+
+You may like to read the full [Foundation Syllabus](./syllabus/)
