@@ -23,7 +23,7 @@ Identification is not required every time you push the PTT button. Once at the s
 
 **Encoded messages in Amateur Radio is not pertmitted.** This includes digital messages and also speaking in codes in voice modes. You must not try to obscure the meaning of the message you are sending.
 
->Usage of "digital modes", which sometimes appear as encoded, are encoded with the publicly available method and thus can be decoded by any amateur, are permitted.
+>Usage of "digital modes", which sometimes appear as encoded but are encoded with the publicly available method and thus can be decoded by any amateur, are permitted.
 
 ## Distress and urgency Signals
 
@@ -53,6 +53,6 @@ Below are some sample questions you may encounter in your exam.
 
 Syllabus items covered by this module.
 
-- [2.5 Distress and urgency signals](../../syllabus/)
-- [2.6 Station Identification](../../syllabus/)
-- [2.8 Encoded Messages](../../syllabus/)
+- [2.5 Distress and urgency signals](../../syllabus/){:target="_blank"}
+- [2.6 Station Identification](../../syllabus/){:target="_blank"}
+- [2.8 Encoded Messages](../../syllabus/){:target="_blank"}
