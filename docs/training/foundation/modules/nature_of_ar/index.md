@@ -41,7 +41,7 @@ Amateur class operators *may pass messages* on behalf of third parties as long a
 Below are some sample questions you may encounter in your exam.
 
 
-[Next Module: Technical Basics](../technical-basics)
+[Next Module: Technical Basics](../technical-basics){: .btn }
 
 ## Syllabus
 
