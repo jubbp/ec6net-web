@@ -15,7 +15,7 @@ Amateur Radio is the use of radio spectrum to facilitate the hobby of radiocommu
 
 Amateur Radio in Australia is administered by the ACMA, The Australian Communications and Media Authority.
 
-![ACMA Logo](../../../assets/ACMALogo.png)
+![ACMA Logo](../../assets/ACMALogo.png)
 
 Along with Amateur Radio, the ACMA is responsible for all radio spectrum users. Other license types include:
 
