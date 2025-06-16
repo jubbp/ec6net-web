@@ -5,7 +5,7 @@
     - name: The Nature of Amatuer Radio
       link: /docs/training/foundation/modules/nature_of_ar/
     - name: Technical Basics
-      link: /docs/training/foundation/modules/technical-basics
+      link: /docs/training/foundation/modules/technical_basics
     - name: Transmitters and Recievers
       link: /docs/training/foundation/modules/tramitters_recievers 
     - name: Propagation

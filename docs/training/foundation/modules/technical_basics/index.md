@@ -1,6 +1,6 @@
 ---
 title: Technical Basics
-subtitle: How dows radio work?
+subtitle: How does radio work?
 layout: page
 show_sidebar: false
 menubar: foundation_menu
