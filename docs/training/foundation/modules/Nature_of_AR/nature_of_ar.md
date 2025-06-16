@@ -24,7 +24,18 @@ Along with Amateur Radio, the ACMA is responsible for all radio spectrum users. 
 - point-to-point links and
 - broadcasting.
 
-The ACMA allocates specific bands for services such as, broadcasting, aeronautical and maritime. Each service has band allocated to them that are appropriate for their use.
+The ACMA allocates specific bands for services such as, broadcasting, aeronautical and maritime. Each service has band(s) allocated to them that are appropriate for their use.
+
+## License Conditions
+
+Amateur Radio is authorised un the Amateur Class License (2024) abd the Amatuer LCD for Beacon and repeater Stations. Amateur stations are also subject the the conditions of the Radiocommunications Act 1992.
+
+The purpose of the Amateur Class License is to facilitate self-training in radiocommunications, communications between amateurs and technical investigations inro radiocommunications tehnologies.
+
+Amateur class operators are not permitted to communicate with other radio users unless in relation to a distress or emergency situation.
+
+Amateur class operators may pass messages on behalf of third parties as long as there is no financial gain involved.
+
 ## Sample Questions
 
 Below are some sample questions you may encounter in your exam.
