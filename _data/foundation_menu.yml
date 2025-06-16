@@ -15,7 +15,7 @@
     - name: Safety
       link: /docs/training/foundation/modules/safety
     - name: Operating Procedures
-      link: /docs/training/foundation/modules/operating-procedures
+      link: /docs/training/foundation/modules/operating_procedures
     - name: Assessment Tips
       link: /docs/training/foundation/modules/assessment
     - name: Return to Training Menu
