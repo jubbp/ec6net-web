@@ -21,6 +21,12 @@ Identification is not required every time you push the PTT button. Once at the s
 
 ---
 
+## Maximum Power Output
+
+The maximum power output from your station is limited by your license. The maximum power output from a Faoudation operator is **10 Watts** in all modes.
+
+---
+
 ## Encoded Messages Prohibited
 
 **Encoded messages in Amateur Radio is not pertmitted.** This includes digital messages and also speaking in codes in voice modes. You must not try to obscure the meaning of the message you are sending.
@@ -70,3 +76,4 @@ Syllabus items covered by this module.
 - [2.5 Distress and urgency signals](../../syllabus/){:target="_blank"}
 - [2.6 Station Identification](../../syllabus/){:target="_blank"}
 - [2.8 Encoded Messages](../../syllabus/){:target="_blank"}
+- [2.10 Permitted Power Output](../../syllabus/){:target="_blank"}

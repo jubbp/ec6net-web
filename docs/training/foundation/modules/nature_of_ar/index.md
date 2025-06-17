@@ -45,6 +45,10 @@ There are two license types in Amateur Radio
 - - to operate a repeater
 - - to operate a beacon
 
+## Change of Contact Details
+
+All operators must contify the Australia Communicatrion a Media Authority of an changes to your contact details.
+
 ## Authorised Frequencies and emissions
 
 Amateur Radio allocated frequency bands and emission modes are documented in the **Radiocommunications Licence Conditions (Amateur Licence) Determination 2015**. Bands are allocated to the different license classes with more priviledges allocated to the high license classes.
@@ -61,7 +65,7 @@ Below are some sample questions you may encounter in your exam.
 
 ---
 
-## References
+## References & Further Reading
 
 - [Radio Communication (Amateur Stations) Class License 2023](https://www.legislation.gov.au/F2023L01648/asmade/text){:target="_blank"}
 - [Radiocommunications Licence Conditions (Amateur Licence) Determination 2015](https://www.legislation.gov.au/F2015L01113/latest/versions){:target="_blank"}
@@ -72,7 +76,10 @@ Below are some sample questions you may encounter in your exam.
 
 Syllabus items covered by this module.
 
-- [1.1 Nature of Amateur Radio](../../syllabus/#13-allocation-of-frequency-bands)
-- [1.2 Types of Licenses](../../syllabus/#13-allocation-of-frequency-bands)
-- [1.3 Allocation of Frequency Bands](../../syllabus/#13-allocation-of-frequency-bands) 
-- [2.9 Authorised Frequency bands and emissions](../../syllabus/)   
+**TODO: Add Correct Links below**  
+
+- [1.1 Nature of Amateur Radio](../../syllabus/){:target="_blank"}
+- [1.2 Types of Licenses](../../syllabus/){:target="_blank"}
+- [1.3 Allocation of Frequency Bands](../../syllabus/){:target="_blank"}
+- [2.9 Authorised Frequency bands and emissions](../../syllabus/){:target="_blank"}
+- [2.11 Notification of change of contact details](../../syllabus/){:target="_blank"}
