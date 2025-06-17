@@ -95,7 +95,8 @@ purposes specified in the Amateur Class Licence.
 #### 2.9 Authorised frequency bands and emissions
 
 - Recall the Amateur Class Licence authorises operation on
-certain frequency bands. Recall in which document the bands
+certain frequency bands. 
+- Recall in which document the bands
 are specified.
 
 #### 2.10 Permitted power output

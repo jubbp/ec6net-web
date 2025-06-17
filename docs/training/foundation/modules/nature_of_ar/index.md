@@ -36,6 +36,21 @@ Amateur class operators *are not permitted* to communicate with other radio user
 
 Amateur class operators *may pass messages* on behalf of third parties as long as there is *no financial gain involved*.
 
+## License Types
+
+There are two license types in Amateur Radio
+
+- a class license (the Radio Communications (Amateur Stations) Class License 2023) This is the license which allows you to operate a staion.
+- assigned apparatus licenses
+- - to operate a repeater
+- - to operate a beacon
+
+## Authorised Frequencies and emissions
+
+Amateur Radio allocated frequency bands and emission modes are documented in the **Radiocommunications Licence Conditions (Amateur Licence) Determination 2015**. Bands are allocated to the different license classes with more priviledges allocated to the high license classes.
+
+The Amateur
+
 ## Sample Questions
 
 Below are some sample questions you may encounter in your exam.
@@ -46,10 +61,18 @@ Below are some sample questions you may encounter in your exam.
 
 ---
 
+## References
+
+- [Radio Communication (Amateur Stations) Class License 2023](https://www.legislation.gov.au/F2023L01648/asmade/text){:target="_blank"}
+- [Radiocommunications Licence Conditions (Amateur Licence) Determination 2015](https://www.legislation.gov.au/F2015L01113/latest/versions){:target="_blank"}
+
+---
+
 ## Syllabus
 
 Syllabus items covered by this module.
 
 - [1.1 Nature of Amateur Radio](../../syllabus/#13-allocation-of-frequency-bands)
 - [1.2 Types of Licenses](../../syllabus/#13-allocation-of-frequency-bands)
-- [1.3 Allocation of Frequency Bands](../../syllabus/#13-allocation-of-frequency-bands)  
+- [1.3 Allocation of Frequency Bands](../../syllabus/#13-allocation-of-frequency-bands) 
+- [2.9 Authorised Frequency bands and emissions](../../syllabus/)   

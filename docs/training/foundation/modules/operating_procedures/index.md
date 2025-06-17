@@ -46,6 +46,11 @@ You should listen and record the details of the situation for later user. A stat
 
 *All Emergency communications must be relayed to the appropriate authority as soon as possible.*
 
+- for land-based distress situations - the police via 000
+- for air or sea-based distress situations - the Rescue Coordination Centre, Canberra ACT
+- - aviation rescue services telephone 1800 815 257
+- - maritime rescue services telephone 1800 641 792
+
 ---
 
 ## Sample Questions
