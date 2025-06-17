@@ -19,11 +19,15 @@ Identification is required in the following case
 
 Identification is not required every time you push the PTT button. Once at the start, once at the end and every ten minutes while your having a conversation.
 
+---
+
 ## Encoded Messages Prohibited
 
 **Encoded messages in Amateur Radio is not pertmitted.** This includes digital messages and also speaking in codes in voice modes. You must not try to obscure the meaning of the message you are sending.
 
 >Usage of "digital modes", which sometimes appear as encoded but are encoded with the publicly available method and thus can be decoded by any amateur, are permitted.
+
+---
 
 ## Distress and urgency Signals
 
@@ -35,9 +39,14 @@ If you hear a station calling MAY-DAY, cease all transmissions and listen. Take 
 
 Be sure to record all detail for later relay to the proper authorities.
 
-Urgent situation that do not rise to the level of emergencies can be indicated by the use of the signal PAN-PAN. A Station call PAN-PAN is indicating that the need assistance but may not need immediate assistance. You should listen and record the details of the situation for later user. A station calling PAN-PAN could at any time upgrade their situation to emergency status and you should prepare to act.
+Urgent situation that do not rise to the level of emergencies can be indicated by the use of the signal PAN-PAN.  
+A Station call PAN-PAN is indicating that they need assistance but may not need an emergency response. 
+
+You should listen and record the details of the situation for later user. A station calling PAN-PAN could at any time upgrade their situation to emergency status and you should prepare to act.
 
 *All Emergency communications must be relayed to the appropriate authority as soon as possible.*
+
+---
 
 ## Sample Questions
 
