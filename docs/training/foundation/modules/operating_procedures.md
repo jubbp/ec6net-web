@@ -47,7 +47,7 @@ In amateur Radio, an **emergency** situation is indicated by the use of the word
 
 >Stations calling MAY-DAY have priority over all other communications.
 
-If you hear a station calling MAY-DAY, cease all transmissions and listen. Take note of the details and if no other station sucessfully makes contact with the station in emergency, you should attempt to contact them. Note, the Amateur Class license allows amateur to operator ouside of the normal class license regulations during an emergency. 
+If you hear a station calling MAY-DAY, cease all transmissions and listen. Take note of the details and if no other station sucessfully makes contact with the station in emergency, you should attempt to contact them. Note, the Amateur Class license allows amateur to operator ouside of the normal class license regulations during an emergency.
 
 Be sure to record all details for later relay to the proper authorities.
 
