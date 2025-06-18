@@ -1,6 +1,6 @@
 ---
-title: Interference
-subtitle: 
+title: Safety
+subtitle: How do we operate our stations safely
 layout: page
 show_sidebar: false
 menubar: foundation_menu
@@ -8,7 +8,7 @@ toc: false
 ---
 
 
-## Harmful Interference
+## TODO Subsection
 
 **TODO** Add description of harmful interference
 
@@ -16,13 +16,11 @@ Amateur Radio stations must not be operated in a way that causes harmful interfe
 
 ---
 
-[Next Module: Safety](./safety){: .btn }
+[Next Module: TODO](./todo){: .btn }
 
 ---
 
 ## References & Further Reading
-
-
 
 ---
 
@@ -32,4 +30,4 @@ Syllabus items covered by this module.
 
 **TODO: Add Correct Links below**  
 
-- [2.12 Harmful interference](../../syllabus/){:target="_blank"}
+- [TODO ](../todo/){:target="_blank"}
