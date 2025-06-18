@@ -7,6 +7,13 @@ menubar: foundation_menu
 toc: false
 ---
 
+## Qualified Operations
+
+Only people with suitable qualifications are permitted to operate an amateur station.
+
+A person withou amateur qualifications may communicate via an amatateur station, provided the station is always under the control of a qualified person.
+
+
 ## Station Identification
 
 When operating your Amateur Sation you must identify yourself using your call sign.
@@ -77,3 +84,5 @@ Syllabus items covered by this module.
 - [2.6 Station Identification](../../syllabus/){:target="_blank"}
 - [2.8 Encoded Messages](../../syllabus/){:target="_blank"}
 - [2.10 Permitted Power Output](../../syllabus/){:target="_blank"}
+- [2.14 Use of amateur stations](../../syllabus/){:target="_blank"}
+- [2.15 Use of amateur stations](../../syllabus/){:target="_blank"}

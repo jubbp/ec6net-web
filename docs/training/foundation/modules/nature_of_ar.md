@@ -45,6 +45,13 @@ There are two license types in Amateur Radio
 - - to operate a repeater
 - - to operate a beacon
 
+## Providing Documentation
+
+The ACMA has the power to request information from ana amteur, including evidence of the qualification.
+
+This request may come from a Radio inspector.
+
+
 ## Change of Contact Details
 
 All operators must contify the Australia Communicatrion a Media Authority of an changes to your contact details.
@@ -54,6 +61,12 @@ All operators must contify the Australia Communicatrion a Media Authority of an 
 Amateur Radio allocated frequency bands and emission modes are documented in the **Radiocommunications Licence Conditions (Amateur Licence) Determination 2015**. Bands are allocated to the different license classes with more priviledges allocated to the high license classes.
 
 The Amateur
+
+## Financial Gain
+
+Amateur radio stations must not be operated for financial gain. You may not use your amateur class license to make money or advertise products or services.
+
+
 
 ## Sample Questions
 
@@ -83,3 +96,5 @@ Syllabus items covered by this module.
 - [1.3 Allocation of Frequency Bands](../../syllabus/){:target="_blank"}
 - [2.9 Authorised Frequency bands and emissions](../../syllabus/){:target="_blank"}
 - [2.11 Notification of change of contact details](../../syllabus/){:target="_blank"}
+- [2.13 Use of amatuer stations](../../syllabus/){:target="_blank"}
+- [2.16 The ACMA may obtain information or documents](../../syllabus/){:target="_blank"}
