@@ -5,18 +5,18 @@
     - name: The Nature of Amatuer Radio
       link: /docs/training/foundation/modules/nature_of_ar/
     - name: Technical Basics
-      link: /docs/training/foundation/modules/technical_basics
+      link: /docs/training/foundation/modules/technical_basics/
     - name: Transmitters and Recievers
-      link: /docs/training/foundation/modules/tramitters_recievers 
+      link: /docs/training/foundation/modules/tramitters_recievers/ 
     - name: Propagation
-      link: /docs/training/foundation/modules/propagation 
+      link: /docs/training/foundation/modules/propagation/
     - name: Interference
-      link: /docs/training/foundation/modules/interference
+      link: /docs/training/foundation/modules/interference/
     - name: Safety
-      link: /docs/training/foundation/modules/safety
+      link: /docs/training/foundation/modules/safety/
     - name: Operating Procedures
-      link: /docs/training/foundation/modules/operating_procedures
+      link: /docs/training/foundation/modules/operating_procedures/
     - name: Assessment Tips
-      link: /docs/training/foundation/modules/assessment
+      link: /docs/training/foundation/modules/assessment/
     - name: Return to Training Menu
-      link: /docs/training
+      link: /docs/training/

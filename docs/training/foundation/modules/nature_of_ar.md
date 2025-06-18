@@ -47,14 +47,15 @@ There are two license types in Amateur Radio
 
 ## Providing Documentation
 
-The ACMA has the power to request information from ana amteur, including evidence of the qualification.
+The ACMA has the power to request information from an amteur, including evidence of their qualifications.
 
 This request may come from a Radio inspector.
 
-
 ## Change of Contact Details
 
-All operators must contify the Australia Communicatrion a Media Authority of an changes to your contact details.
+All operators must notify the Australia Communicatrion a Media Authority of any changes to your contact details.
+
+You should also ensure the ACMA has you current email address. They use this address to reconfirm your call sign every 5 years.
 
 ## Authorised Frequencies and emissions
 
@@ -65,8 +66,6 @@ The Amateur
 ## Financial Gain
 
 Amateur radio stations must not be operated for financial gain. You may not use your amateur class license to make money or advertise products or services.
-
-
 
 ## Sample Questions
 

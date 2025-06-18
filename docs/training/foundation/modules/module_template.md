@@ -7,7 +7,6 @@ menubar: foundation_menu
 toc: false
 ---
 
-
 ## TODO Subsection
 
 **TODO** Add description of harmful interference
@@ -30,4 +29,4 @@ Syllabus items covered by this module.
 
 **TODO: Add Correct Links below**  
 
-- [TODO ](../todo/){:target="_blank"}
+- [TODO](../todo/){:target="_blank"}
