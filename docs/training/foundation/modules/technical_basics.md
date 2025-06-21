@@ -57,10 +57,10 @@ manuals. Exam candidates should memorise these items.
 |---|---|
 | Name | Diagram |
 |---|---|
-| Cell | ![Cell](./IMG_0623.jpeg)|
-| Battery | |
-| Fuse | |
-| Lamp | |
+| Cell | ![Cell](../cell.jpeg)|
+| Battery | ![Battery](../battery.jpeg)|
+| Fuse | ![fuse](../fuse.jpeg) |
+| Lamp | ![lamp](../lamp.jpeg) |
 | Resistor | |
 | Switch | |
 | Antenna | |
