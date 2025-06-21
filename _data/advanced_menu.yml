@@ -1,0 +1,9 @@
+- label: Advanced Course Outline
+  items:
+    - name: Introduction
+      link: /docs/training/advanced
+
+    - name: Assessment Tips
+      link: /docs/training/advanced/modules/assessment/
+    - name: Return to Training Menu
+      link: /docs/training/

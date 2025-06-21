@@ -1,0 +1,9 @@
+- label: Standard Course Outline
+  items:
+    - name: Introduction
+      link: /docs/training/standard
+
+    - name: Assessment Tips
+      link: /docs/training/standard/modules/assessment/
+    - name: Return to Training Menu
+      link: /docs/training/
