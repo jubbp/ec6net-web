@@ -9,16 +9,6 @@ toc: false
 
 ## Units of Measure
 
-| Measurement | Units | Abbreviation |
-|---|---|---|
-| Voltage | Volts | V |
-| Current | Amps | A or I |
-| Resistance | Ohms | R or Ω |
-| Power | Watts | W or P |
-| Frequency | Hertz | Hz |
-| Wavelength | Metres | M or λ |
-|---|---|---|
-
 
 ## Symbols
 
@@ -28,7 +18,21 @@ Voltage is the measure of electrical pressure or potential difference between 2 
 
 Current is a measure of the electron flow in a circuit
 
-Resistance 
+Resistance is the opposition to electron flow in a circuit.
+
+Power is a measure of the energy consumed by a circuit.
+
+| Measurement | Units | Abbreviation |
+|—|—|—|
+| Voltage | Volts | V |
+| Current | Amps | A or I |
+| Resistance | Ohms | R or Ω |
+| Power | Watts | W or P |
+| Frequency | Hertz | Hz |
+| Wavelength | Metres | M or λ |
+|—|—|—|
+
+
 
 ## Current
 
@@ -42,6 +46,27 @@ Direct Current is usually shortened to DC. In a DC circuit the flow of electrons
 
 Alternating Current is usually shortened to AC. In an AC circuit the flow of electrons alternates at some frequency. For example, current flow in our mains AC power alternates at 50Hz or 50 cycles per second.
 
+
+
+## Basic Circuit Symbols
+
+One of the requirements of the Foundation qualification is the recognition of some basic component and radio circuit symbols. These are universal and will often appear within radio
+manuals. Exam candidates should memorise these items.
+
+
+|---|---|
+| Name | Diagram |
+|---|---|
+| Cell | ![Cell](./IMG_0623.jpeg)|
+| Battery | |
+| Fuse | |
+| Lamp | |
+| Resistor | |
+| Switch | |
+| Antenna | |
+| Earth | |
+| Microphone | |
+| Loudspeaker | |
 
 ---
 
