@@ -159,14 +159,10 @@ to unauthorised people.
 
 - Recall the units of, and abbreviations for voltage, current,
 resistance and power.
-- Recall the engineering prefixes milli,
-kilo and mega.
+- Recall the engineering prefixes milli, kilo and mega.
 
 #### 3.2 Meaning of DC and AC
 
-- Recall the units of, and abbreviations for voltage, current,
-resistance and power. Recall the engineering prefixes milli,
-kilo and mega.
 - Recall what is meant by the abbreviations DC and AC.
 
 #### 3.3 Audio and radio frequencies
