@@ -128,11 +128,11 @@ Amateurs generally refer to the bands by their wavelength rather than by the fre
 Below are some sample questions you may encounter in your exam.
 
 
-1. ** A Foundation Amateur operator who is operating Upper Side Band on Frequency 14.349 is:**  
-  1.1 Operating within their license
-  1.1 Operating too close to the band edge
-  1.1 Operating outside of foundation priviledges
-  1.1 All of the above
+1. **A Foundation Amateur operator who is operating Upper Side Band on Frequency 14.349 is:**  
+  1.1. Operating within their license
+  1.1. Operating too close to the band edge
+  1.1. Operating outside of foundation priviledges
+  1.1. All of the above
  
 ---
 
