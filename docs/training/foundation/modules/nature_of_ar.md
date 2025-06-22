@@ -129,11 +129,16 @@ Below are some sample questions you may encounter in your exam.
 
 
 1. **A Foundation Amateur operator who is operating Upper Side Band on Frequency 14.349 is:**  
-  1.1. Operating within their license
+  1.1. Operating within their license conditions
   1.1. Operating too close to the band edge
   1.1. Operating outside of foundation priviledges
   1.1. All of the above
- 
+1. **An Foundation Amateur operator who is tramitting on 7.001 using Amplitude Modulation is:**
+ 1.1. Operating within their license conditions 
+ 1.1. Operating too close to the band edge
+ 1.1. is operating outside their license conditions
+ 1.1. None of the above
+  
 ---
 
 [Next Module: Technical Basics](../technical_basics){: .btn }
