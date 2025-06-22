@@ -23,14 +23,14 @@ Resistance is the opposition to electron flow in a circuit.
 Power is a measure of the energy consumed by a circuit.
 
 | Measurement | Units | Abbreviation |
-|—---|—---|----|
+|—--|—--|---|
 | Voltage | Volts | V |
 | Current | Amps | A or I |
 | Resistance | Ohms | R or Ω |
 | Power | Watts | W or P |
 | Frequency | Hertz | Hz |
 | Wavelength | Metres | M or λ |
-|----|----|----|
+|---|---|---|
 
 
 ## Current
