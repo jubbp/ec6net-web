@@ -16,3 +16,5 @@ Note at it is not a requirement to do the licenses in order. If you feel up to i
 - [Foundation License Course](./foundation/)
 - [Standard License Course](./standard/)
 - [Advanced Licenase Course](./advanced/)
+
+[Credits and Acknowledgments](./credits/) 

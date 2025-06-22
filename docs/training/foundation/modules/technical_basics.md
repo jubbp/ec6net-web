@@ -23,15 +23,14 @@ Resistance is the opposition to electron flow in a circuit.
 Power is a measure of the energy consumed by a circuit.
 
 | Measurement | Units | Abbreviation |
-|—|—|—|
+|—---|—---|----|
 | Voltage | Volts | V |
 | Current | Amps | A or I |
 | Resistance | Ohms | R or Ω |
 | Power | Watts | W or P |
 | Frequency | Hertz | Hz |
 | Wavelength | Metres | M or λ |
-|—|—|—|
-
+|----|----|----|
 
 
 ## Current
@@ -61,12 +60,12 @@ manuals. Exam candidates should memorise these items.
 | Battery | ![Battery](../battery.jpeg)|
 | Fuse | ![fuse](../fuse.jpeg) |
 | Lamp | ![lamp](../lamp.jpeg) |
-| Resistor | |
-| Switch | |
-| Antenna | |
-| Earth | |
-| Microphone | |
-| Loudspeaker | |
+| Resistor | ![resistor](../resistor.jpeg)|
+| Switch | ![switch](../switch.jpeg)|
+| Antenna | ![antenna](../antenna.jpeg) |
+| Earth |  ![earth](../earth.jpeg)|
+| Microphone | ![microphone](../microphone.jpeg) |
+| Loudspeaker | ![loudspeaker](../loudspeaker.jpeg)|
 
 ---
 
