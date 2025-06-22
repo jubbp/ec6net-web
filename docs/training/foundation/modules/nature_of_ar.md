@@ -123,6 +123,24 @@ Amateurs generally refer to the bands by their wavelength rather than by the fre
 | 70cm | |
 
 
+## Foundation Level Band Allocations
+
+The following table outlines the bands available to the Foundation level operator
+
+|---|---|---|
+|Band|Frequencies|Notes|
+|:---:|:---:|---|
+| 80m | 3.500 - 3.700 MHz | |
+| 40m | 7.000 - 7.300 MHz | |
+| 15m | 21.000 - 21.450 MHz | |
+| 10m | 28.000 - 29.700 MHz | |
+| 2m | 144.00 - 148.000 MHz | |
+| 70cm | 430.000 - 450.000 MHz | |
+
+>Please note that allocations vary from country to country and allocations in other countries may not be legal in Australia.
+
+
+
 ## Sample Questions
 
 Below are some sample questions you may encounter in your exam.
@@ -136,6 +154,8 @@ Below are some sample questions you may encounter in your exam.
  
    **Answer: C** - The foundation qualification does not allow transmission on the 20m band.  
 
+---
+
 1. **A Foundation Amateur operator who is transmitting on 7.001 using Amplitude Modulation is:**
   * (A) operating within their license conditions 
   * (B) operating too close to the band edge
@@ -143,6 +163,8 @@ Below are some sample questions you may encounter in your exam.
   * (D) none of the above  
 
    **Answer: B** - AM Modulation extends for 3KHz below the dial frequency which would be out of the 40m band.  
+
+---
 
 1. **An Amateur Operator is approached to transmit a message on behalf of a friend to another operator. The friend offer a few dollars to get the message through quickly. Should the operator send the message?**
   * (A) Yes
@@ -152,6 +174,16 @@ Below are some sample questions you may encounter in your exam.
    
 ---
 
+1. **Amateur Radio in Australia is subject to the following legislation and regulations:**
+  * (A) Amateur Radio Class License 2023
+  * (B) Radiocommunications Act 1992
+  * (C) Amateur License Conditions Determination 2015
+  * (D) All of the above
+
+   **Answer: D - All list legislation and regulations.  
+
+---
+  
 [Next Module: Technical Basics](../technical_basics){: .btn }
 
 ---
