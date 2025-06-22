@@ -69,7 +69,7 @@ manuals. Exam candidates should memorise these items.
 
 ---
 
-[Next Module: Transmitters & Receivers](./transmitters_receivers){: .btn }
+[Next Module: Transmitters & Receivers](./transmitters_receivers/){: .btn }
 
 ---
 
