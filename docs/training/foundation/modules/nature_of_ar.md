@@ -96,9 +96,14 @@ Within the frequency bands are bands allocated for Amateur use. These bands cons
 
 ![20m Band](../assets/20m_band.jpeg)
 
-Amateur transmissions are not a foot frewqnecies but takes up some spectrum either or both sides of that frequency.
+Amateur transmissions are not only on spot freqenecies but takes up some spectrum either or both sides of that frequency.
+
+The Mode used will adjust the bandwidth required for the transmission. A CW signal is relatively small compared with an SSB and AM signal.
 
 > Amateurs must ensure that their signal is entirely within the allocated frequency band.
+
+An AM signal on 7.100 Mhz will occupy the bands by from 7.097 to 7.103 Mhz because an AM signal is typically 6 Kilo Hertz wide centralised on the dial/spot frequency.
+
 
 ### Frequency and Wavelength
 
@@ -122,6 +127,13 @@ Amateurs generally refer to the bands by their wavelength rather than by the fre
 
 Below are some sample questions you may encounter in your exam.
 
+
+1. ** A Foundation Amateur operator who is operating Upper Side Band on Frequency 14.349 is:**  
+  1.1 Operating within their license
+  1.1 Operating too close to the band edge
+  1.1 Operating outside of foundation priviledges
+  1.1 All of the above
+ 
 ---
 
 [Next Module: Technical Basics](../technical_basics){: .btn }
