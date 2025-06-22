@@ -67,6 +67,25 @@ The Amateur
 
 Amateur radio stations must not be operated for financial gain. You may not use your amateur class license to make money or advertise products or services.
 
+## Radio Spectrum
+
+### Frequency Bands
+
+The Radio Spectrum is decided into bands. Amateur Reaiod operators have bands allocate for their use across the entire radio spectrum.
+
+![Frequency Bands](../assets/bands.jpeg)
+
+### Primary and Secondary Allocations
+
+When a band is allocated to Amateur use, they can be for Primary or Secondary use basis. 
+
+A **Primary** use band is one which is solely for use by Amateur Radio operators.
+
+A **Secondary** band is one which we share with another service on the basis that we do not cause any interference to the primary user.
+
+>While Amateur operators have allocation throughout the entire spectrum, most AR operations take place in the HF, VHF and UHF bands.
+
+
 ## Sample Questions
 
 Below are some sample questions you may encounter in your exam.
