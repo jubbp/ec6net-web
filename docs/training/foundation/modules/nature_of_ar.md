@@ -61,8 +61,6 @@ You should also ensure the ACMA has you current email address. They use this add
 
 Amateur Radio allocated frequency bands and emission modes are documented in the **Radiocommunications Licence Conditions (Amateur Licence) Determination 2015**. Bands are allocated to the different license classes with more priviledges allocated to the high license classes.
 
-The Amateur
-
 ## Financial Gain
 
 Amateur radio stations must not be operated for financial gain. You may not use your amateur class license to make money or advertise products or services.
@@ -75,15 +73,49 @@ The Radio Spectrum is decided into bands. Amateur Reaiod operators have bands al
 
 ![Frequency Bands](../assets/bands.jpeg)
 
+### Allocation of Frequency Bands
+
+Bands are allocated for many types of uses, such as Air Band or spot frequencies, such as CB radio channels.
+
+
 ### Primary and Secondary Allocations
 
-When a band is allocated to Amateur use, they can be for Primary or Secondary use basis. 
+When a band is allocated to Amateur use, they can be for Primary or Secondary use basis. There are also bands which are allocated for exclusive use
 
-A **Primary** use band is one which is solely for use by Amateur Radio operators.
+An **Exclusive** use band is allocated for the exclusive use of the nominated service. 
 
-A **Secondary** band is one which we share with another service on the basis that we do not cause any interference to the primary user.
+A **Primary** use band is one which is allocated for use by Amateur Radio operators and other user should not cause interference.
+
+A **Secondary** band is one which we share with another services on the basis that we do not cause any interference to the primary user.
 
 >While Amateur operators have allocation throughout the entire spectrum, most AR operations take place in the HF, VHF and UHF bands.
+
+### Amateur Band Allocations
+
+Within the frequency bands are bands allocated for Amateur use. These bands consist of 2 edge frequencies, between which and discrete frequency may be used
+
+![20m Band](../assets/20m_band.jpeg)
+
+Amateur transmissions are not a foot frewqnecies but takes up some spectrum either or both sides of that frequency.
+
+> Amateurs must ensure that their signal is entirely within the allocated frequency band.
+
+### Frequency and Wavelength
+
+Amateurs generally refer to the bands by their wavelength rather than by the frequency. Many Amateurs build their own antennas and wavelength relates to the length of the antenna elements.  
+
+|---|---|
+| Band | Frequency Range |
+|---|---|
+| 160m | |
+| 80m | 3.500MHz  |
+| 40m | 7.000 MHz - 7.200 MHz |
+| 20m | 14.000 MHz - 14.350 MHz |
+| 15m | 21.000 MHz |
+| 10m | 28.00 MHz - 29. |
+| 6m | |
+| 2m | |
+| 70cm | |
 
 
 ## Sample Questions
