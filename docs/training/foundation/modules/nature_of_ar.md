@@ -132,13 +132,14 @@ Below are some sample questions you may encounter in your exam.
   * (A) Operating within their license conditions
   * (B) Operating too close to the band edge
   * (C) Operating outside of foundation priviledges
-  * (D) All of the above  
+  * (D) All of the above
+   **Answer: C** - The foundation qualification does not allow transmission on the 20m band.       
 1. **An Foundation Amateur operator who is transmitting on 7.001 using Amplitude Modulation is:**
   * (A) operating within their license conditions 
   * (B) operating too close to the band edge
   * (C) operating outside their license conditions
   * (D) none of the above  
-1. **An Amateur Operator is approached to transmit a message on behalf of a friend to another operator. The friend offer a few dollars to get the message through quickly. Is this legal?
+1. **An Amateur Operator is approached to transmit a message on behalf of a friend to another operator. The friend offer a few dollars to get the message through quickly. Should the operator send the message?*
   * (A) Yes
   * (B) No  
   
