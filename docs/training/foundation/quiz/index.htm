@@ -1,0 +1,40 @@
+<html>
+
+<head>
+    <link href="./quizlib.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Quiz Container -->
+    <div id="quiz-div">
+        <!-- Question 1 -->
+        <div class="quizlib-question my-class">
+            <div class="quizlib-question-title">1. Question Title</div>
+            <div class="quizlib-question-answers">
+                <!-- Answer structure can be as simple or as complicated as you like, 
+             only the input elements matter to the library -->
+                <input type="radio" name="q1" value="a"> Option 1<br />
+                <input type="radio" name="q1" value="b"> Option 2<br />
+            </div>
+        </div>
+        <!-- Question 2 -->
+        <div class="quizlib-question my-class">
+            <div class="quizlib-question-title">2. Question Title</div>
+            <div class="quizlib-question-answers">
+                <ul>
+                    <li><label><input type="checkbox" name="q2" value="a"> Option 1</label></li>
+                    <li><label><input type="checkbox" name="q2" value="b"> Option 2</label></li>
+                    <li><label><input type="checkbox" name="q2" value="c"> Option 3</label></li>
+                    <li><label><input type="checkbox" name="q2" value="d"> Option 4</label></li>
+                </ul>
+            </div>
+        </div>
+        <!-- Answer Button -->
+        <button type="button" onclick="myAnswerCheckMethod();">Check Answers</button>
+    </div>
+    <script>
+        var quiz = new Quiz('quiz-div', ['a', ['b', 'c', 'd']]);
+    </script>
+</body>
+
+</html>
