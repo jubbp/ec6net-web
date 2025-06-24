@@ -30,7 +30,7 @@ Power is a measure of the energy consumed by a circuit.
 | Power | Watts | W or P |
 | Frequency | Hertz | Hz |
 | Wavelength | Metres | M or λ |
-|---|---|---|
+
 
 
 ## Current
