@@ -85,8 +85,16 @@ layout: default
         if ({{ page.quizQCount }} > quizData.length) {
             console.log("Not enough questions in quiz")
             
+        } else {
+
+            let questionNumbers = generateNRandomIntegers({{ page.quizQCount }}, 0,quizData.length-1 )
+            console.log("questionNumbers",questionNumbers)
+            loadQuiz()
+
         }
-        loadQuiz()
+
+
+        
         }
         function loadQuiz() {
 
