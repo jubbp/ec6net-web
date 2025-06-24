@@ -53,7 +53,7 @@ layout: default
 
 
 
-        loadQuiz()
+        
 
         async function init() {
             {% if page.quizdata %}
@@ -86,6 +86,7 @@ layout: default
             console.log("Not enough questions in quiz")
             
         }
+        loadQuiz()
         }
         function loadQuiz() {
 
