@@ -161,7 +161,7 @@ layout: default
                     // Generate a random integer between min (inclusive) and max (inclusive)
                     const randomNumber = Math.floor(Math.random() * (max - min + 1)) + min;
 
-                    if (!randomIntegers.contains(randomNumber)) {
+                    if (!randomIntegers.includes(randomNumber)) {
                         randomIntegers.push(randomNumber);
                     }
                     
