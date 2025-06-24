@@ -38,13 +38,35 @@ layout: default
         const submitBtn = document.getElementById('submit')
         const questImg = document.querySelector('.question-container > img')
         var quizData = []
+        
 
-        {% if page.quizdata %}
+
+        await init()
+
+
+        console.log("quizData", quizData)
+        console.log("qCount",{{ page.quizQCount }})
+        if ({{ page.quizQCount }} > quizData.length) {
+            console.log("Not enough questions in quiz")
+            
+        }
+        
+        
+        let currentQuiz = 0
+        let score = 0
+
+
+
+
+        loadQuiz()
+
+        async function init() {
+            {% if page.quizdata %}
             quizData =  {{ page.quizdata }} ;
         {% endif %}
         {% if page.quizfile %}
 
-            fetch('../{{page.quizfile}}.json')
+           await fetch('../{{page.quizfile}}.json')
                 .then(response => {
                     if (!response.ok) {
                         throw new Error(`HTTP error! status: ${response.status}`);
@@ -62,25 +84,7 @@ layout: default
                     console.error('Error fetching or parsing JSON:', error);
                 });
         {% endif %}
-
-
-
-
-
-        console.log("quizData", quizData)
-        console.log("qCount",{{ page.quizQCount }})
-        if ({{ page.quizQCount }} > quizData.length) {
-            console.log("Not enough questions in quiz")
-            
         }
-        let currentQuiz = 0
-        let score = 0
-
-
-
-
-        loadQuiz()
-
         function loadQuiz() {
 
             deselectAnswers()
