@@ -66,7 +66,106 @@
         "a": "Leaving the station until the storm passes",
         "b": "Disconnect the antennas",
         "c": "Install a large capacitor to the antenna input",
-        "d": "MicrowaConnect the station to battery power onlyves",
+        "d": "Connect the station to battery power only",
+        "img": ""
+    },
+    {
+        "question": "If your station is causing harmful interference to a radio service, you must –",
+        "correct": "c",
+        "a": "Reduce your transmit power",
+        "b": "Change over to another antenna",
+        "c": "Stop transmitting",
+        "d": "Notify the ACMA",
+        "img": ""
+    },
+    {
+        "question": "One of the purposes of the Amateur Service is –",
+        "correct": "d",
+        "a": "To contact vessels in distress",
+        "b": "To reduce congestion on the internet",
+        "c": "To provide an alternative to mobile telephone services",
+        "d": "To allow self-training in radiocommunications",
+        "img": ""
+    },
+    {
+        "question": "A frequency of 146 MHz is considered to be in the following band –",
+        "correct": "c",
+        "a": "LF",
+        "b": "HF",
+        "c": "VHF",
+        "d": "UHF",
+        "img": ""
+    },
+    {
+        "question": "A half-wave dipole antenna for a frequency of 146MHz will have a total length of approximately –",
+        "correct": "a",
+        "a": "1 metre",
+        "b": "2 metres",
+        "c": "146 millimetres",
+        "d": "73 millimetres",
+        "img": ""
+    },
+    {
+        "question": "Single sideband transmitters use a form of –",
+        "correct": "c",
+        "a": "Frequency modulation",
+        "b": "Phase modulation",
+        "c": "Amplitude modulation",
+        "d": "Coaxial modulation",
+        "img": ""
+    },
+    {
+        "question": "To reduce radiofrequency interference to your neighbor, you should –",
+        "correct": "b",
+        "a": "Erect a wire fence to block radio signals",
+        "b": "Ask the neighbor to install radio filtering devices",
+        "c": "Call the local council electrical inspector for advice",
+        "d": "Site your antennas as far as possible from any equipment that may be affected",
+        "img": ""
+    },
+    {
+        "question": "Long distance communication on the HF bands relies on radio waves being -",
+        "correct": "b",
+        "a": "Reflected by high level clouds",
+        "b": "Refracted in the ionosphere",
+        "c": "Ducted in the troposphere",
+        "d": "Enhanced by continental drift",
+        "img": ""
+    },
+    {
+        "question": "As the distance from the antenna increases, transmitted radio waves -",
+        "correct": "a",
+        "a": "Become weaker",
+        "b": "Become more focused",
+        "c": "Remain at the same strength",
+        "d": "Become enhanced at the horizon",
+        "img": ""
+    },
+    {
+        "question": "Amateur transmissions must include –",
+        "correct": "d",
+        "a": "The reason for the transmission",
+        "b": "The station location",
+        "c": "The operators name",
+        "d": "The station identification",
+        "img": ""
+    },
+    {
+        "question": "The selectivity of a receiver refers to –",
+        "correct": "b",
+        "a": "The ability to select a wide range of bands",
+        "b": "The ability to reject unwanted frequencies",
+        "c": "The ability of the squelch control to limit background noise",
+        "d": "The ability to control the treble and bass of the audio output",
+        "img": ""
+    },
+    {
+        "question": "A transmitter operating at 10 watts with an antenna with a gain of 5 times, has an effective radiated power (ERP) of –",
+        "correct": "c",
+        "a": "10 watts",
+        "b": "15 watts",
+        "c": "50 watts",
+        "d": "2 watts",
         "img": ""
     }
 
