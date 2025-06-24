@@ -38,7 +38,7 @@ layout: default
         const submitBtn = document.getElementById('submit')
         const questImg = document.querySelector('.question-container > img')
         var quizData = []
-        
+        var questionNumbers = []
 
 
         init()
@@ -87,7 +87,7 @@ layout: default
             
         } else {
 
-            let questionNumbers = generateNRandomIntegers({{ page.quizQCount }}, 0,quizData.length-1 )
+            questionNumbers = generateNRandomIntegers({{ page.quizQCount }}, 0,quizData.length-1 )
             console.log("questionNumbers",questionNumbers)
             loadQuiz()
 
@@ -160,7 +160,11 @@ layout: default
                 for (let i = 0; i < n; i++) {
                     // Generate a random integer between min (inclusive) and max (inclusive)
                     const randomNumber = Math.floor(Math.random() * (max - min + 1)) + min;
-                    randomIntegers.push(randomNumber);
+
+                    if (!randomIntegers.contains(randomNumber)) {
+                        randomIntegers.push(randomNumber);
+                    }
+                    
                 }
 
             return randomIntegers;
