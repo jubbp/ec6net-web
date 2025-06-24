@@ -160,13 +160,120 @@
         "img": ""
     },
     {
-        "question": "A transmitter operating at 10 watts with an antenna with a gain of 5 times, has an effective radiated power (ERP) of –",
+        "question": "A transmitter operating at 10 watts with an antenna with a gain of 5 times, has an effective radiated power (ERP) of ",
         "correct": "c",
         "a": "10 watts",
         "b": "15 watts",
         "c": "50 watts",
         "d": "2 watts",
         "img": ""
+    },
+    {
+        "question": "A call over radio involving safety of life is referred to as: ",
+        "correct": "b",
+        "a": "a dire emergency",
+        "b": "a distress call ",
+        "c": "an urgency call",
+        "d": " a security call",
+        "img": ""
+    },
+    {
+        "question": "An urgent situation not involving the safety of life is called: ",
+        "correct": "b",
+        "a": "an emergency call",
+        "b": "a urgency call ",
+        "c": "a high priority call",
+        "d": "a sub-distress call",
+        "img": ""
+    },
+    {
+        "question": "A radio amateur should announce their callsign: ",
+        "correct": "b",
+        "a": "during silent periods",
+        "b": "at the beginning of the first transmission and then at least every 10 minutes",
+        "c": "at the beginning and end of every transmission",
+        "d": "at the beginning and end of a series of transmissions",
+        "img": ""
+    },
+    {
+        "question": "A foundation licensee can allow an unqualified person to operate their station",
+        "correct": "a",
+        "a": "if the foundation licensee is present at all times",
+        "b": "if the foundation licensee announces his callsign",
+        "c": "if the other person says “second operator” after the callsign",
+        "d": "a Foundation operator cannot supervise an unlicensed person",
+        "img": ""
+    },
+    {
+        "question": "An amateur radio licence authorises the holder to communicate with:",
+        "correct": "b",
+        "a": "other amateur radio operators and CB radio operators",
+        "b": "other amateur radio operators only",
+        "c": "any two-way radio services on HF (3-30 MHz)",
+        "d": "Land mobile services",
+        "img": ""
+    },
+    {
+        "question": "An amateur radio operator must produce their evidence of qualification if requested to do so by:",
+        "correct": "c",
+        "a": "a Wireless Institute of Australia inspector",
+        "b": "a Wireless Institute of Australia assesso",
+        "c": "an ACMA inspector",
+        "d": "a Federal or State police officer",
+        "img": ""
+    },
+    {
+        "question": "Which of the following are basic SI units of electricity:",
+        "correct": "c",
+        "a": "mhos, volts and amperes",
+        "b": "kilovolts, milliamperes and cool-ohms",
+        "c": "amperes, volts and ohms",
+        "d": "inductance, capacitance and resistance",
+        "img": ""
+    },
+    {
+        "question": "The acronyms FM and AM as used in radio stand for:",
+        "correct": "a",
+        "a": "Frequency modulation and Amplitude modulation",
+        "b": "Frequency modulation and Analogue modulation",
+        "c": "Fremodyne modulation and Amplitude modulations",
+        "d": "Fine Modulation (High fidelity) and Angular Modulation",
+        "img": ""
+    },
+    {
+        "question": "A radio receiver that can pick up weak signals is said to be:",
+        "correct": "b",
+        "a": "very broad bandwidth",
+        "b": "very sensitive",
+        "c": "highly selective",
+        "d": "a low noise receiver",
+        "img": ""
+    },
+    {
+        "question": "When operating on amateur radio bands it is the operators responsibility to ensure that their transmissions:",
+        "correct": "a",
+        "a": "remain completely inside amateur bands",
+        "b": "are at least 3KHz from the band edges",
+        "c": "are within a distance from the band edges as determined by the ACMA",
+        "d": "are equal to or less then 0dBm outside the amateur band",
+        "img": ""
+    },
+    {
+        "question": "The ionosphere is primarily charged by",
+        "correct": "b",
+        "a": "your radio transmissions",
+        "b": "ultraviolet radiation from the sun",
+        "c": "cosmic radiation",
+        "d": "ionospheric storms",
+        "img": ""
+    },
+    {
+        "question": "Radio Frequency Immunity of home electronic equipment means:",
+        "correct": "b",
+        "a": "the immunity of household appliances to power line interference",
+        "b": "the ability of household appliances to reject noise",
+        "c": "the ability of household appliances to reject radio frequencies",
+        "d": "the requirement for household equipment to comply with Australian Standards",
+        "img": ""
     }
-
 ]
