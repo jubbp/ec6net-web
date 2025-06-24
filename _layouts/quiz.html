@@ -100,7 +100,7 @@ layout: default
         function loadQuiz() {
 
             deselectAnswers()
-            document.getElementById("questionTotal").innerHTML = {{ page.quizQCount }}
+            document.getElementById("totalQuestions").innerHTML = {{ page.quizQCount }}
             document.getElementById("questionNum").innerHTML = currentQuiz
             const currentQuizData = quizData[questionNumbers[currentQuiz]]
             console.log("currentQuizData",currentQuizData)
