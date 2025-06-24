@@ -5,7 +5,8 @@ layout: quiz
 show_sidebar: false
 menubar: foundation_menu
 toc: false
-quizdata: "[{ question: 'The government body that administers amateur radio in Australia is?', correct: 'c',a: 'ARRL',b: 'Wireless Institute of Australia',c: 'The Australian Communications and Media Authority',d: 'The Department of Communications',img: ''}]"
+quizQCount: 2
+quizfile: foundation_quiz
 ---
 
 ## Foundation Quiz
