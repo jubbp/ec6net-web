@@ -16,5 +16,21 @@
         "c": "100 Watts",
         "d": "Unlimited",
         "img": ""
+    },
+    {
+        "question": "Amateur Radio is subject to the following legislation and regulations:",
+        "correct": "d",
+        "a": "Radiocommunications Act 1992",
+        "b": "Amateur Radio Class License 2023",
+        "c": "Amater Radio License Conditions Determination 2015",
+        "d": "All of the above",
+        "img": ""
+    },
+    {
+        "question": "An amateur radio operator is approached to transmit message on behalf of a friend to another operator. The friend offers a few dollars to get the message through quickly. Should the operator send the message?",
+        "correct": "b",
+        "a": "Yes",
+        "b": "No",
+        "img": ""
     }
 ]
