@@ -44,7 +44,7 @@ console.log(page.quizfile)
             // 'data' now contains the parsed JSON.
             // If the root of your JSON is an array, 'data' is already an array.
             // If it's an object containing an array, you'll need to access it.
-            const myArray = data; // Assuming your JSON file directly contains an array
+            let quizData = data; // Assuming your JSON file directly contains an array
             console.log(myArray);
         })
         .catch(error => {
