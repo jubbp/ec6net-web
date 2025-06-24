@@ -44,12 +44,7 @@ layout: default
         init()
 
 
-        console.log("quizData", quizData)
-        console.log("qCount",{{ page.quizQCount }})
-        if ({{ page.quizQCount }} > quizData.length) {
-            console.log("Not enough questions in quiz")
-            
-        }
+        
         
         
         let currentQuiz = 0
@@ -84,6 +79,13 @@ layout: default
                     console.error('Error fetching or parsing JSON:', error);
                 });
         {% endif %}
+
+        console.log("quizData", quizData)
+        console.log("qCount",{{ page.quizQCount }})
+        if ({{ page.quizQCount }} > quizData.length) {
+            console.log("Not enough questions in quiz")
+            
+        }
         }
         function loadQuiz() {
 

@@ -7,5 +7,14 @@
         "c": "The Australian Communications and Media Authority",
         "d": "The Department of Communications",
         "img": ""
+    },
+    {
+        "question": "The Maximum transmit power usable by a foundation operator is:",
+        "correct": "b",
+        "a": "10 KW",
+        "b": "10 Watts",
+        "c": "100 Watts",
+        "d": "Unlimited",
+        "img": ""
     }
 ]
