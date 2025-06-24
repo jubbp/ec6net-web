@@ -29,8 +29,22 @@ layout: default
 
 
 
+
+
+
+        const quiz = document.getElementById('quiz')
+        const answerEls = document.querySelectorAll('.answer')
+        const questionEl = document.getElementById('question')
+        const a_text = document.getElementById('a_text')
+        const b_text = document.getElementById('b_text')
+        const c_text = document.getElementById('c_text')
+        const d_text = document.getElementById('d_text')
+        const submitBtn = document.getElementById('submit')
+        const questImg = document.querySelector('.question-container > img')
+var quizdata = []
+
 {% if page.quizdata %}
-        let quizData =  {{ page.quizdata }} ;
+     quizData =  {{ page.quizdata }} ;
 {% endif %}
 {% if page.quizfile %}
 console.log({{page.quizfile}})
@@ -45,7 +59,7 @@ console.log({{page.quizfile}})
             // 'data' now contains the parsed JSON.
             // If the root of your JSON is an array, 'data' is already an array.
             // If it's an object containing an array, you'll need to access it.
-            let quizData = data; // Assuming your JSON file directly contains an array
+            quizData = data; // Assuming your JSON file directly contains an array
             console.log(myArray);
         })
         .catch(error => {
@@ -54,15 +68,9 @@ console.log({{page.quizfile}})
 {% endif %}
 
 
-        const quiz = document.getElementById('quiz')
-        const answerEls = document.querySelectorAll('.answer')
-        const questionEl = document.getElementById('question')
-        const a_text = document.getElementById('a_text')
-        const b_text = document.getElementById('b_text')
-        const c_text = document.getElementById('c_text')
-        const d_text = document.getElementById('d_text')
-        const submitBtn = document.getElementById('submit')
-        const questImg = document.querySelector('.question-container > img')
+
+
+
         console.log("quizdata", quizData)
         console.log("qCount",quiz.quizQCount)
         if (quiz.quizQCount > quiz.quizData.length) {
@@ -71,6 +79,9 @@ console.log({{page.quizfile}})
         }
         let currentQuiz = 0
         let score = 0
+
+
+
 
         loadQuiz()
 
