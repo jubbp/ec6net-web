@@ -275,5 +275,86 @@
         "c": "the ability of household appliances to reject radio frequencies",
         "d": "the requirement for household equipment to comply with Australian Standards",
         "img": ""
+    },
+    {
+        "question": "The acronym EMC stands for:",
+        "correct": "a",
+        "a": "Electrical and Magnetic compatibility",
+        "b": "Electromagnetic Compatibility",
+        "c": "Engineering Minimum Compatibility",
+        "d": "Electrical Maintenance Compliance",
+        "img": ""
+    },
+    {
+        "question": "An incorrectly adjusted antenna tuner may cause:",
+        "correct": "a",
+        "a": "interference to non amateur radio services",
+        "b": "hum in the receiver",
+        "c": "parasitic interference",
+        "d": "polarisation of the radiated signal to change",
+        "img": ""
+    },
+    {
+        "question": "Amateur radio, TV and Broadcast radio can suffer interference from:",
+        "correct": "a",
+        "a": "high voltage power lines",
+        "b": "the phase of the moon",
+        "c": "ionospheric ducting",
+        "d": "Trans-equatorial interference",
+        "img": ""
+    },
+    {
+        "question": "During a thunderstorm an amateur station should:",
+        "correct": "a",
+        "a": "not be operated",
+        "b": "be tuned to the international weather warning frequency",
+        "c": "increase power to overcome lightning static",
+        "d": "provide weather information",
+        "img": ""
+    },
+    {
+        "question": "Antenna erection and rigging should be carried out:",
+        "correct": "b",
+        "a": "by persons with a Amateur Radio Riggers Certificate II or higher",
+        "b": "by persons with the necessary skills and safety equipment",
+        "c": "by persons with a Standard licence or higher",
+        "d": "when three or more people are present one of whom must know CPR",
+        "img": ""
+    },
+    {
+        "question": "Cells and batteries contain chemicals that:",
+        "correct": "b",
+        "a": "are the same as those used in capacitors",
+        "b": "can burn the skin and corrode metals",
+        "c": "give off explosive helium gas when they are charged",
+        "d": "make an inexpensive rust inhibitor",
+        "img": ""
+    },
+    {
+        "question": "Antennas and their fittings should:",
+        "correct": "c",
+        "a": "be higher than 5 metres at the lowest point",
+        "b": "be made from non conductive materials",
+        "c": "be kept well away from power lines",
+        "d": "never cross buildings inhabited by people",
+        "img": ""
+    },
+    {
+        "question": "Power measurements of a Foundation Operators transmitter:",
+        "correct": "a",
+        "a": "must be made with a suitably calibrated power measuring device",
+        "b": "may be calculated by the voltage and current of the power supply",
+        "c": "can only be performed by a Standard or Advanced operator",
+        "d": "must be conducted at the nominal temperature of twenty degrees Celsius",
+        "img": ""
+    },
+    {
+        "question": "Using a frequency to wavelength conversion chart, the approximate length of a quarter wave antenna on 300 MHz would be: <br><img src=\"../FrequencyWavelengthChart.png\">",
+        "correct": "b",
+        "a": "0.25 metres",
+        "b": "1.0 metres",
+        "c": "300 metres",
+        "d": " 0.5 metres",
+        "img": ""
     }
 ]
