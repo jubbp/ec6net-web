@@ -161,11 +161,17 @@ layout: default
 
                 for (let i = 0; i < n; i++) {
                     // Generate a random integer between min (inclusive) and max (inclusive)
-                    const randomNumber = Math.floor(Math.random() * (max - min + 1)) + min;
+                    
+                    var foundNotUnique = true
 
-                    if (!randomIntegers.includes(randomNumber)) {
-                        randomIntegers.push(randomNumber);
-                    }
+                    while (foundNotUnique) {
+                        const randomNumber = Math.floor(Math.random() * (max - min + 1)) + min;
+                        if (!randomIntegers.includes(randomNumber)) {
+                            randomIntegers.push(randomNumber);
+                            foundNotUnique = false
+                        }
+                    } 
+                    
                     
                 }
 
