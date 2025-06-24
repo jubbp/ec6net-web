@@ -32,5 +32,42 @@
         "a": "Yes",
         "b": "No",
         "img": ""
+    },
+    {
+        "question": "A radio operator has received an electric shock and is lying on the floor. You should first -",
+        "correct": "d",
+        "a": "Switch over to battery power",
+        "b": "Call PAN PAN, if no reply call MAYDAY.",
+        "c": "Call the electricity company then dial 000.",
+        "d": "Ensure you are not in danger then turn off the power",
+        "img": ""
+    },
+    {
+        "question": "If cables are run across the floor of the station, it may cause -",
+        "correct": "b",
+        "a": "Unwanted subterranean signals",
+        "b": "A trip hazard",
+        "c": "A hum in the signal from mains power induction",
+        "d": "EInterference to your television",
+        "img": ""
+    },
+    {
+        "question": "The gain of an antenna is expressed in",
+        "correct": "c",
+        "a": "Millivolts",
+        "b": "Hertz",
+        "c": "Decibels",
+        "d": "Microwaves",
+        "img": ""
+    },
+    {
+        "question": "If a lightning storm is expected, you should consider –",
+        "correct": "b",
+        "a": "Leaving the station until the storm passes",
+        "b": "Disconnect the antennas",
+        "c": "Install a large capacitor to the antenna input",
+        "d": "MicrowaConnect the station to battery power onlyves",
+        "img": ""
     }
+
 ]
