@@ -47,7 +47,7 @@ var quizdata = []
      quizData =  {{ page.quizdata }} ;
 {% endif %}
 {% if page.quizfile %}
-console.log({{page.quizfile}})
+
     fetch('../{{page.quizfile}}.json')
         .then(response => {
             if (!response.ok) {
