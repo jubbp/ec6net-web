@@ -5,19 +5,7 @@ layout: quiz
 show_sidebar: false
 menubar: foundation_menu
 toc: false
-quizdata: 
-  - "question": "The govenment body that administers amateur radio in Australia is?"
-    "correct": "c"
-    "a": "ARRL"
-    "b": "Wireless Institute of Australia"
-    "c": "The Australian Communications and Media Authority"
-    "d": "The Department of Communications"
-    "img": ""
-  - "question" : "Amateur Radio is a Hobby?
-    "correct": "a"
-    "a": "Yes"
-    "b": "No"
-
+quizdata: "[{ 'question': 'The govenment body that administers amateur radio in Australia is?', 'correct': 'c','a': 'ARRL','b': 'Wireless Institute of Australia','c': 'The Australian Communications and Media Authority','d': 'The Department of Communications','img': ''}]"
 ---
 
 ## Foundation Quiz
