@@ -6,6 +6,7 @@ layout: default
 
     <div id="quiz"></div>
     <div class="question-container">
+        <h3>Question: <span id="questionNum"></span> of <span id="totalQuestions"></span></h3>
         <div id="question"></div>
         <img />
     </div>
@@ -99,7 +100,8 @@ layout: default
         function loadQuiz() {
 
             deselectAnswers()
-
+            document.getElementById("questionTotal").innerHTML = {{ page.quizQCount }}
+            document.getElementById("questionNum").innerHTML = currentQuiz
             const currentQuizData = quizData[questionNumbers[currentQuiz]]
             console.log("currentQuizData",currentQuizData)
             questionEl.innerHTML = currentQuizData.question
