@@ -13,6 +13,10 @@ quizdata:
     c: "The Australian Communications and Media Authority"
     d: "The Department of Communications"
     img: ""
+  - question : "Amateur Radio is a Hobby?
+    correct: "a"
+    a: "Yes"
+    b: "No"
 
 ---
 
