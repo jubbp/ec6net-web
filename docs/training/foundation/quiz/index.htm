@@ -1,67 +1,128 @@
 <html>
 
 <head>
-    <link href="./quizlib.min.css" rel="stylesheet">
+
 </head>
 
 <body>
-    <!-- Quiz Container -->
-    <div id="quiz-div">
-        <!-- Question 1 -->
-        <div class="quizlib-question my-class">
-            <div class="quizlib-question-title">1. Question Title</div>
-            <div class="quizlib-question-answers">
-                <!-- Answer structure can be as simple or as complicated as you like, 
-             only the input elements matter to the library -->
-                <input type="radio" name="q1" value="a"> Option 1<br />
-                <input type="radio" name="q1" value="b"> Option 2<br />
-            </div>
-        </div>
-        <!-- Question 2 -->
-        <div class="quizlib-question my-class">
-            <div class="quizlib-question-title">2. Question Title</div>
-            <div class="quizlib-question-answers">
-                <ul>
-                    <li><label><input type="checkbox" name="q2" value="a"> Option 1</label></li>
-                    <li><label><input type="checkbox" name="q2" value="b"> Option 2</label></li>
-                    <li><label><input type="checkbox" name="q2" value="c"> Option 3</label></li>
-                    <li><label><input type="checkbox" name="q2" value="d"> Option 4</label></li>
-                </ul>
-            </div>
-        </div>
-        <!-- Answer Button -->
-        <button type="button" onclick="myAnswerCheckMethod();">Check Answers</button>
+    <div id="quiz"></div>
+    <div class="question-container">
+        <div id="question"></div>
+        <img />
     </div>
+
+    <input id="a" type="checkbox" class="answer" />
+    <label id="a_text"></label>
+    <br>
+    <input id="b" type="checkbox" class="answer" />
+    <label id="b_text"></label>
+    <br>
+    <input id="c" type="checkbox" class="answer" />
+    <label id="c_text"></label>
+    <br>
+    <input id="d" type="checkbox" class="answer" />
+    <label id="d_text"></label>
+    <br><br>
+    <button id="submit">Submit</button>
+
     <script src="./quizlib.1.0.1.min.js"></script>
     <script>
 
-        var quiz = new Quiz('quiz-div', ['a', ['b', 'c', 'd']]);
+        const quizData = [{
+            question: "Which language runs in a web browser?", correct: "d",
+            a: "Java", b: "C", c: "Python", d: "javascript",
+            img: "https://placekitten.com/200/200"
+        },
+        {
+            question: "What does CSS stand for?", correct: "b",
+            a: "Central Style Sheets", b: "Cascading Style Sheets", c: "Cascading Simple Sheets", d: "Cars SUVs Sailboats",
+            img: "https://placekitten.com/300/200"
+        },
+        {
+            question: "What does HTML stand for?", correct: "a",
+            a: "Hypertext Markup Language", b: "Hypertext Markdown Language", c: "Hyperloop Machine Language", d: "Helicopters Terminals Motorboats Lamborginis",
+            img: "https://placekitten.com/200/300"
+        },
+        {
+            question: "What year was JavaScript launched?", correct: "b",
+            a: "1996", b: "1995", c: "1994", d: "none of the above",
+            img: "https://placekitten.com/400/200"
+        },
+        {
+            question: "Is this a test run?", correct: "d",
+            a: "yes it is", b: "why do you care?", c: "stop asking", d: "I don't know",
+            img: "https://placekitten.com/200/400"
+        },
+        {
+            question: "where do you see yourself in  years?", correct: "b",
+            a: "In the gutter", b: "Forbes magazine", c: "Simple guy", d: "outside the country",
+            img: "https://placekitten.com/500/200"
+        }];
 
-        function myAnswerCheckMethod() {
-            // checkAnswers returns true if all questions have been answered and updates the result object
-            if (quiz.checkAnswers()) {
-                console.log('Correct answers: ' + quiz.result.score + '/' + quiz.result.totalQuestions);
-                console.log('Percent correct: ' + quiz.result.scorePercentFormatted + '%');
-            }
+        const quiz = document.getElementById('quiz')
+        const answerEls = document.querySelectorAll('.answer')
+        const questionEl = document.getElementById('question')
+        const a_text = document.getElementById('a_text')
+        const b_text = document.getElementById('b_text')
+        const c_text = document.getElementById('c_text')
+        const d_text = document.getElementById('d_text')
+        const submitBtn = document.getElementById('submit')
+        const questImg = document.querySelector('.question-container > img')
 
-            // Alternatively, we can ignore unanswered questions by passing false
-            quiz.checkAnswers(false);
-            console.log('Correct answers: ' + quiz.result.score + '/' + quiz.result.totalQuestions);
-            console.log('Percent correct: ' + quiz.result.scorePercentFormatted + '%');
+        let currentQuiz = 0
+        let score = 0
 
-            // We can also use the highResults method to highlight correct and incorrect answers.
-            // We pass a callback which takes the quiz object, the current question, the question number and whether it was answered correctly.
-            quiz.highlightResults(myHandleAnswerMethod);
+        loadQuiz()
+
+        function loadQuiz() {
+
+            deselectAnswers()
+
+            const currentQuizData = quizData[currentQuiz]
+            questionEl.innerText = currentQuizData.question
+            a_text.innerText = currentQuizData.a
+            b_text.innerText = currentQuizData.b
+            c_text.innerText = currentQuizData.c
+            d_text.innerText = currentQuizData.d
+            questImg.src = currentQuizData.img
         }
 
-        // Callback for quiz.highlightResults called for each question. Parameters are: The quiz object the question belongs to,
-        // the question element, the question number and a boolean indicating if the question was answered correctly.
-        function myHandleAnswerMethod(quiz, question, no, correct) {
-            if (!correct) {
-                // Highlight the correct answers.
-                // See the example code on GitHub for an example implementation.
-            }
+        function deselectAnswers() {
+            answerEls.forEach(answerEl => answerEl.checked = false)
         }
+
+        function getSelected() {
+            let answer
+            answerEls.forEach(answerEl => {
+                if (answerEl.checked) {
+                    answer = answerEl.id
+                }
+            })
+            return answer
+        }
+
+
+        submitBtn.addEventListener('click', () => {
+
+            const answer = getSelected()
+
+            if (answer) {
+                if (answer === quizData[currentQuiz].correct) {
+                    score++
+                }
+                currentQuiz++;
+
+                if (currentQuiz < quizData.length) {
+                    loadQuiz()
+                } else {
+                    quiz.innerHTML = `
+           <h2>You answered ${score}/${quizData.length} questions correctly</h2>
+          <img src="https://placekitten.com/200/200">
+           <button onclick="location.reload()">Reload</button>
+           `
+                }
+            }
+        })
     </script>
 </body>
 
