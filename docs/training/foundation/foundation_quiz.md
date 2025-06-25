@@ -5,7 +5,7 @@ layout: quiz
 show_sidebar: false
 menubar: foundation_menu
 toc: false
-quizQCount: 40
+quizQCount: 5
 quizfile: foundation_quiz
 ---
 
