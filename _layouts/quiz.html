@@ -5,33 +5,37 @@ layout: default
     {{ content }}
 
     <div id="quiz">
-    <div class="question-container">
-        <h3>Question: <span id="questionNum"></span> of <span id="totalQuestions"></span></h3>
-        <div id="question"></div>
-        <img />
-    </div>
-    <div class="answer-container">
-        <div class="row">
-            <input id="a" type="checkbox" class="answer" />
-            <label id="a_text"></label>
+        <div class="question-container">
+            <h3>Question: <span id="questionNum"></span> of <span id="totalQuestions"></span></h3>
+            <div id="question"></div>
+            <img />
         </div>
-        <div class="row">
+        <div class="answer-container">
+            <div class="row">
+                <input id="a" type="checkbox" class="answer" />
+                <label id="a_text"></label>
+            </div>
+            <div class="row">
+            </div>
+            <div class="row">
+                <input id="b" type="checkbox" class="answer" />
+                <label id="b_text"></label>
+            <div>
+            <div class="row">
+                <input id="c" type="checkbox" class="answer" />
+                <label id="c_text"></label>
+            </div>
+            <div class="row">
+                <input id="d" type="checkbox" class="answer" />
+                <label id="d_text"></label>
+            </div>
+            </div>
+            <button id="submit" class="btn btn-primary" style="margin-top: 20px;">Submit</button>
         </div>
-        <div class="row">
-            <input id="b" type="checkbox" class="answer" />
-            <label id="b_text"></label>
-        <div>
-        <div class="row">
-            <input id="c" type="checkbox" class="answer" />
-            <label id="c_text"></label>
+        <div class="summary-container">
+            <h3>Quiz Complete</h3>
+            
         </div>
-        <div class="row">
-            <input id="d" type="checkbox" class="answer" />
-            <label id="d_text"></label>
-        </div>
-    </div>
-        <button id="submit">Submit</button>
-    </div>
 </div>
 
 <script>
