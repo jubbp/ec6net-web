@@ -5,12 +5,12 @@ layout: default
     {{ content }}
 
     <div id="quiz">
-        <div class="question-container">
+        <div class="question-container hidden">
             <h3>Question: <span id="questionNum"></span> of <span id="totalQuestions"></span></h3>
             <div id="question"></div>
             <img />
         </div>
-        <div class="answer-container">
+        <div class="answer-container hiddden">
             <div class="row">
                 <input id="a" type="checkbox" class="answer" />
                 <label id="a_text"></label>
@@ -39,7 +39,7 @@ layout: default
                 <div class="row">
                     <h4>Question: 1</h4>
                     <div >An amateur radio operator must produce their evidence of qualification if requested to do so by:</div>
-                    <div><i class="fa-regular fa-circle-check correct" style="padding-right: 10px;"></i>a Wireless Institute of Australia inspector</div>
+                    <div class="bold"><i class="fa-regular fa-circle-check correct" style="padding-right: 10px;"></i>a Wireless Institute of Australia inspector</div>
                     <div><i class="fa-regular fa-circle-xmark incorrect" style="padding-right: 10px;"></i>a Wireless Institute of Australia assesso</div>
                     <div><i class="fa-regular fa-circle" style="padding-right: 10px;"></i>an ACMA inspector</div>
                     <div><i class="fa-regular fa-circle" style="padding-right: 10px;"></i>a Federal or State police officer</div>
