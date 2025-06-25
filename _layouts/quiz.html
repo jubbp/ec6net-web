@@ -5,12 +5,12 @@ layout: default
     {{ content }}
 
     <div id="quiz">
-        <div class="question-container">
+        <div class="question-container" id="question-container">
             <h3>Question: <span id="questionNum"></span> of <span id="totalQuestions"></span></h3>
             <div id="question"></div>
             <img />
         </div>
-        <div class="answer-container">
+        <div class="answer-container" id="answer-container">
             <div class="row">
                 <input id="a" type="checkbox" class="answer" />
                 <label id="a_text"></label>
@@ -30,7 +30,7 @@ layout: default
             </div>
             <button id="submit" class="btn btn-primary" style="margin-top: 20px;">Submit</button>
         </div>
-        <div class="summary-container">
+        <div class="summary-container hidden" id="summary-container">
             <h3>Quiz Complete</h3>
             <p>You answered <span id="completeCorrect"></span> out of <span id=completeTotal></span> questions correctly.</p>
             <div id="questionSummaryWrapper">
@@ -155,6 +155,9 @@ layout: default
         })
 
         function displaySummary() {
+            document.getElementById("question-container").classList.add("hidden")
+            document.getElementById("answer-container").classList.add("hidden")
+             document.getElementById("summary-container").classList.remove("hidden")
             let qlist = document.getElementById("questionSummaryWrapper")
             let qCount = 1
             for (q of questionsAskedInOrder) {
