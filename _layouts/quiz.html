@@ -171,7 +171,7 @@ layout: default
                     qEvalClass = "incorrect"
                     isCorrect = false
                 }
-                qlist.innerHTML += '<div class="row" style="border-bottom: 1px; padding-bottom: 40px"><h4>Question: ' + qCount + '<i style="margin-left: 10px;" class="fa-regular fa-circle-' + (isCorrect ? 'check correct' : 'xmark inorrect') + '"></i> </h4><div>' + q.question 
+                qlist.innerHTML += '<div class="row ' + (isCorrect ? 'bg-correct' : 'xmark bg-incorrect') + '" style="border-bottom: 1px; padding-bottom: 40px"><h4>Question: ' + qCount + '<i style="margin-left: 10px;" class="fa-regular fa-circle-' + (isCorrect ? 'check correct' : 'xmark incorrect') + '"></i> </h4><div>' + q.question 
                 qlist.innerHTML += ''
                 qlist.innerHTML += '</div></div>'
                 qCount += 1

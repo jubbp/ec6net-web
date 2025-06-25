@@ -32,8 +32,18 @@ $hero-darken: $dark !default;
   color: green;
 }
 
+.bg-correct {
+  background-color: green;
+  opacity: 0.3;
+}
+
 .incorrect {
   color: red;
+}
+
+.incorrect {
+  background-color: red;
+  opacity: 0.3;
 }
 
 .hidden {
