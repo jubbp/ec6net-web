@@ -158,8 +158,15 @@ layout: default
             let qlist = document.getElementById("questionSummaryWrapper")
             let qCount = 1
             for (q of questionsAskedInOrder) {
-
-                qlist.innerHTML += '<div class="row" style="border-bottom: 1px; padding-bottom: 40px"><h4>Question: ' + qCount + '</h4><div>' + q.question 
+                let qEvalClass = ""
+                let isCorrect = false
+                if (q.answer === q.correct) {
+                  qEvalClass = "correct"  
+                  isCorrect = true
+                } else{
+                    qEvalClass = "incorrect"
+                }
+                qlist.innerHTML += '<div class="row" style="border-bottom: 1px; padding-bottom: 40px"><h4>Question: ' + qCount + '<i class="fa-regular fa-circle- ' + isCorrect ? 'xmark incorrect' : 'check correct' + "></i> </h4><div>' + q.question 
                 qlist.innerHTML += '</div></div>'
                 qCount += 1
             }
