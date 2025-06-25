@@ -34,26 +34,7 @@ layout: default
             <h3>Quiz Complete</h3>
             <p>You answered <span id="completeCorrect"></span> out of <span id=completeTotal></span> questions correctly.</p>
             <div id="questionSummaryWrapper">
-                <div class="row" style="border-bottom: 1px; border-style: s padding-bottom: 40px;" >
-                    <h4>Question: 1</h4>
-                    <div >An amateur radio operator must produce their evidence of qualification if requested to do so by:</div>
-                    <div class="bold"><i class="fa-regular fa-circle-check correct" style="padding-right: 10px;"></i>a Wireless Institute of Australia inspector</div>
-                    <div><i class="fa-regular fa-circle-xmark incorrect" style="padding-right: 10px;"></i>a Wireless Institute of Australia assesso</div>
-                    <div><i class="fa-regular fa-circle" style="padding-right: 10px;"></i>an ACMA inspector</div>
-                    <div><i class="fa-regular fa-circle" style="padding-right: 10px;"></i>a Federal or State police officer</div>
-                    <h4 style="padding-top: 10px;">Incorrect</h4>
-                    <p>Only ACMA inspectors can legally require you to produce evidence of your qualifications to operate an Amateur radio station.</p>
-                </div>
-                <div class="row" style="border-bottom: 1px; padding-bottom: 40px">
-                    <h4>Question: 1</h4>
-                    <div >An amateur radio operator must produce their evidence of qualification if requested to do so by:</div>
-                    <div class="bold"><i class="fa-regular fa-circle-check correct" style="padding-right: 10px;"></i>a Wireless Institute of Australia inspector</div>
-                    <div><i class="fa-regular fa-circle-xmark incorrect" style="padding-right: 10px;"></i>a Wireless Institute of Australia assesso</div>
-                    <div><i class="fa-regular fa-circle" style="padding-right: 10px;"></i>an ACMA inspector</div>
-                    <div><i class="fa-regular fa-circle" style="padding-right: 10px;"></i>a Federal or State police officer</div>
-                    <h4 style="padding-top: 10px;">Incorrect</h4>
-                    <p>Only ACMA inspectors can legally require you to produce evidence of your qualifications to operate an Amateur radio station.</p>
-                </div>
+                
             </div>
             
         </div>
@@ -177,7 +158,10 @@ layout: default
             let qlist = document.getElementById("questionSummaryWrapper")
             let qCount = 1
             for (q of questionsAskedInOrder) {
-                qlist.innerHTML += '<div class="row" style="border-bottom: 1px; padding-bottom: 40px"><h4>Question: ' + qCount + '</h4></div>'
+
+                qlist.innerHTML += '<div class="row" style="border-bottom: 1px; padding-bottom: 40px"><h4>Question: ' + qCount + '</h4><div>' + q.question 
+                qlist.innerHTML += '</div></div>'
+                qCount += 1
             }
         }
         function generateNRandomIntegers(n, min, max) {
