@@ -160,13 +160,15 @@ layout: default
             for (q of questionsAskedInOrder) {
                 let qEvalClass = ""
                 let isCorrect = false
-                if (q.answer == q.correct) {
+                if (q.answer === q.correct) {
                   qEvalClass = "correct"  
                   isCorrect = true
-                } else{
+                } else {
                     qEvalClass = "incorrect"
+                    isCorrect = false
                 }
-                qlist.innerHTML += '<div class="row" style="border-bottom: 1px; padding-bottom: 40px"><h4>Question: ' + qCount + '<i style="padding-left: 10px;" class="fa-regular fa-circle-' + (isCorrect ? 'xmark incorrect' : 'check correct') + '"></i> </h4><div>' + q.question 
+                qlist.innerHTML += '<div class="row" style="border-bottom: 1px; padding-bottom: 40px"><h4>Question: ' + qCount + '<i style="margin-left: 10px;" class="fa-regular fa-circle-' + (isCorrect ? 'check correct' : 'xmark inorrect') + '"></i> </h4><div>' + q.question 
+                qlist.innerHTML += ''
                 qlist.innerHTML += '</div></div>'
                 qCount += 1
             }
