@@ -4,26 +4,34 @@ layout: default
 <div class="content">
     {{ content }}
 
-    <div id="quiz"></div>
+    <div id="quiz">
     <div class="question-container">
         <h3>Question: <span id="questionNum"></span> of <span id="totalQuestions"></span></h3>
         <div id="question"></div>
         <img />
     </div>
-
-    <input id="a" type="checkbox" class="answer" />
-    <label id="a_text"></label>
-    <br>
-    <input id="b" type="checkbox" class="answer" />
-    <label id="b_text"></label>
-    <br>
-    <input id="c" type="checkbox" class="answer" />
-    <label id="c_text"></label>
-    <br>
-    <input id="d" type="checkbox" class="answer" />
-    <label id="d_text"></label>
-    <br><br>
-    <button id="submit">Submit</button>
+    <div class="answer-container">
+        <div class="row">
+            <input id="a" type="checkbox" class="answer" />
+            <label id="a_text"></label>
+        </div>
+        <div class="row">
+        </div>
+        <div class="row">
+            <input id="b" type="checkbox" class="answer" />
+            <label id="b_text"></label>
+        <div>
+        <div class="row">
+            <input id="c" type="checkbox" class="answer" />
+            <label id="c_text"></label>
+        </div>
+        <div class="row">
+            <input id="d" type="checkbox" class="answer" />
+            <label id="d_text"></label>
+        </div>
+    </div>
+        <button id="submit">Submit</button>
+    </div>
 </div>
 
 <script>
@@ -43,18 +51,10 @@ layout: default
 
 
         init()
-
-
-        
-        
         
         let currentQuiz = 0
         let score = 0
 
-
-
-
-        
 
         async function init() {
             {% if page.quizdata %}

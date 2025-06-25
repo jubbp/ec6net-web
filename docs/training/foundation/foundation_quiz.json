@@ -6,7 +6,9 @@
         "b": "Wireless Institute of Australia",
         "c": "The Australian Communications and Media Authority",
         "d": "The Department of Communications",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": "The Australian Communications and Media authority (ACMA) administers all communications in australia, including Amateur Radio."
     },
     {
         "question": "The Maximum transmit power usable by a foundation operator is:",
@@ -15,7 +17,9 @@
         "b": "10 Watts",
         "c": "100 Watts",
         "d": "Unlimited",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "Amateur Radio is subject to the following legislation and regulations:",
@@ -24,14 +28,18 @@
         "b": "Amateur Radio Class License 2023",
         "c": "Amater Radio License Conditions Determination 2015",
         "d": "All of the above",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "An amateur radio operator is approached to transmit message on behalf of a friend to another operator. The friend offers a few dollars to get the message through quickly. Should the operator send the message?",
         "correct": "b",
         "a": "Yes",
         "b": "No",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "A radio operator has received an electric shock and is lying on the floor. You should first -",
@@ -40,7 +48,9 @@
         "b": "Call PAN PAN, if no reply call MAYDAY.",
         "c": "Call the electricity company then dial 000.",
         "d": "Ensure you are not in danger then turn off the power",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "If cables are run across the floor of the station, it may cause -",
@@ -49,7 +59,9 @@
         "b": "A trip hazard",
         "c": "A hum in the signal from mains power induction",
         "d": "EInterference to your television",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "The gain of an antenna is expressed in",
@@ -58,7 +70,9 @@
         "b": "Hertz",
         "c": "Decibels",
         "d": "Microwaves",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "If a lightning storm is expected, you should consider –",
@@ -67,7 +81,9 @@
         "b": "Disconnect the antennas",
         "c": "Install a large capacitor to the antenna input",
         "d": "Connect the station to battery power only",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "If your station is causing harmful interference to a radio service, you must –",
@@ -76,7 +92,9 @@
         "b": "Change over to another antenna",
         "c": "Stop transmitting",
         "d": "Notify the ACMA",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "One of the purposes of the Amateur Service is –",
@@ -85,7 +103,9 @@
         "b": "To reduce congestion on the internet",
         "c": "To provide an alternative to mobile telephone services",
         "d": "To allow self-training in radiocommunications",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "A frequency of 146 MHz is considered to be in the following band –",
@@ -94,7 +114,9 @@
         "b": "HF",
         "c": "VHF",
         "d": "UHF",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "A half-wave dipole antenna for a frequency of 146MHz will have a total length of approximately –",
@@ -103,7 +125,9 @@
         "b": "2 metres",
         "c": "146 millimetres",
         "d": "73 millimetres",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "Single sideband transmitters use a form of –",
@@ -112,7 +136,9 @@
         "b": "Phase modulation",
         "c": "Amplitude modulation",
         "d": "Coaxial modulation",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "To reduce radiofrequency interference to your neighbor, you should –",
@@ -121,7 +147,9 @@
         "b": "Ask the neighbor to install radio filtering devices",
         "c": "Call the local council electrical inspector for advice",
         "d": "Site your antennas as far as possible from any equipment that may be affected",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "Long distance communication on the HF bands relies on radio waves being -",
@@ -130,7 +158,9 @@
         "b": "Refracted in the ionosphere",
         "c": "Ducted in the troposphere",
         "d": "Enhanced by continental drift",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "As the distance from the antenna increases, transmitted radio waves -",
@@ -139,7 +169,9 @@
         "b": "Become more focused",
         "c": "Remain at the same strength",
         "d": "Become enhanced at the horizon",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "Amateur transmissions must include –",
@@ -148,7 +180,9 @@
         "b": "The station location",
         "c": "The operators name",
         "d": "The station identification",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "The selectivity of a receiver refers to –",
@@ -157,7 +191,9 @@
         "b": "The ability to reject unwanted frequencies",
         "c": "The ability of the squelch control to limit background noise",
         "d": "The ability to control the treble and bass of the audio output",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "A transmitter operating at 10 watts with an antenna with a gain of 5 times, has an effective radiated power (ERP) of ",
@@ -166,7 +202,9 @@
         "b": "15 watts",
         "c": "50 watts",
         "d": "2 watts",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "A call over radio involving safety of life is referred to as: ",
@@ -175,7 +213,9 @@
         "b": "a distress call ",
         "c": "an urgency call",
         "d": " a security call",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "An urgent situation not involving the safety of life is called: ",
@@ -184,7 +224,9 @@
         "b": "a urgency call ",
         "c": "a high priority call",
         "d": "a sub-distress call",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "A radio amateur should announce their callsign: ",
@@ -193,7 +235,9 @@
         "b": "at the beginning of the first transmission and then at least every 10 minutes",
         "c": "at the beginning and end of every transmission",
         "d": "at the beginning and end of a series of transmissions",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "A foundation licensee can allow an unqualified person to operate their station",
@@ -202,7 +246,9 @@
         "b": "if the foundation licensee announces his callsign",
         "c": "if the other person says “second operator” after the callsign",
         "d": "a Foundation operator cannot supervise an unlicensed person",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "An amateur radio licence authorises the holder to communicate with:",
@@ -211,7 +257,9 @@
         "b": "other amateur radio operators only",
         "c": "any two-way radio services on HF (3-30 MHz)",
         "d": "Land mobile services",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "An amateur radio operator must produce their evidence of qualification if requested to do so by:",
@@ -220,7 +268,9 @@
         "b": "a Wireless Institute of Australia assesso",
         "c": "an ACMA inspector",
         "d": "a Federal or State police officer",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "Which of the following are basic SI units of electricity:",
@@ -229,7 +279,9 @@
         "b": "kilovolts, milliamperes and cool-ohms",
         "c": "amperes, volts and ohms",
         "d": "inductance, capacitance and resistance",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "The acronyms FM and AM as used in radio stand for:",
@@ -238,7 +290,9 @@
         "b": "Frequency modulation and Analogue modulation",
         "c": "Fremodyne modulation and Amplitude modulations",
         "d": "Fine Modulation (High fidelity) and Angular Modulation",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "A radio receiver that can pick up weak signals is said to be:",
@@ -247,7 +301,9 @@
         "b": "very sensitive",
         "c": "highly selective",
         "d": "a low noise receiver",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "When operating on amateur radio bands it is the operators responsibility to ensure that their transmissions:",
@@ -256,7 +312,9 @@
         "b": "are at least 3KHz from the band edges",
         "c": "are within a distance from the band edges as determined by the ACMA",
         "d": "are equal to or less then 0dBm outside the amateur band",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "The ionosphere is primarily charged by",
@@ -265,7 +323,9 @@
         "b": "ultraviolet radiation from the sun",
         "c": "cosmic radiation",
         "d": "ionospheric storms",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "Radio Frequency Immunity of home electronic equipment means:",
@@ -274,7 +334,9 @@
         "b": "the ability of household appliances to reject noise",
         "c": "the ability of household appliances to reject radio frequencies",
         "d": "the requirement for household equipment to comply with Australian Standards",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "The acronym EMC stands for:",
@@ -283,7 +345,9 @@
         "b": "Electromagnetic Compatibility",
         "c": "Engineering Minimum Compatibility",
         "d": "Electrical Maintenance Compliance",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "An incorrectly adjusted antenna tuner may cause:",
@@ -292,7 +356,9 @@
         "b": "hum in the receiver",
         "c": "parasitic interference",
         "d": "polarisation of the radiated signal to change",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "Amateur radio, TV and Broadcast radio can suffer interference from:",
@@ -301,7 +367,9 @@
         "b": "the phase of the moon",
         "c": "ionospheric ducting",
         "d": "Trans-equatorial interference",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "During a thunderstorm an amateur station should:",
@@ -310,7 +378,9 @@
         "b": "be tuned to the international weather warning frequency",
         "c": "increase power to overcome lightning static",
         "d": "provide weather information",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "Antenna erection and rigging should be carried out:",
@@ -319,7 +389,9 @@
         "b": "by persons with the necessary skills and safety equipment",
         "c": "by persons with a Standard licence or higher",
         "d": "when three or more people are present one of whom must know CPR",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "Cells and batteries contain chemicals that:",
@@ -328,7 +400,9 @@
         "b": "can burn the skin and corrode metals",
         "c": "give off explosive helium gas when they are charged",
         "d": "make an inexpensive rust inhibitor",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "Antennas and their fittings should:",
@@ -337,7 +411,9 @@
         "b": "be made from non conductive materials",
         "c": "be kept well away from power lines",
         "d": "never cross buildings inhabited by people",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "Power measurements of a Foundation Operators transmitter:",
@@ -346,7 +422,9 @@
         "b": "may be calculated by the voltage and current of the power supply",
         "c": "can only be performed by a Standard or Advanced operator",
         "d": "must be conducted at the nominal temperature of twenty degrees Celsius",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     },
     {
         "question": "Using a frequency to wavelength conversion chart, the approximate length of a quarter wave antenna on 300 MHz would be: <br><img src=\"../FrequencyWavelengthChart.png\">",
@@ -355,6 +433,8 @@
         "b": "1.0 metres",
         "c": "300 metres",
         "d": " 0.5 metres",
-        "img": ""
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     }
 ]
