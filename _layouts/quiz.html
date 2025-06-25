@@ -175,7 +175,7 @@ layout: default
 
         function displaySummary() {
             let qlist = document.getElementById("questionSummaryWrapper")
-            dim qCount = 1
+            let qCount = 1
             for (q of questionsAskedInOrder) {
                 qlist.innerHTML += '<div class="row" style="border-bottom: 1px; padding-bottom: 40px"><h4>Question: ' + qCount + '</h4></div>'
             }
