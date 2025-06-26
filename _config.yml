@@ -5,7 +5,7 @@ tagline: EC6Net
 email: vk6dev@gmail.com
 description: >
   The documentation website for the EC6Net mutual assistance network
-baseurl: "/"
+baseurl: ""
 url: "http://ec6net.devlanky.net"
 permalink: pretty
 #favicon: /path/to/favicon.png
@@ -17,7 +17,8 @@ fixed_navbar: top
 force_theme: light
 
 paginate: 5
-paginate_path: "/blog/page:num"
+paginate_path: "/blog/page:num" 
+
 
 # Disqus Comments
 disqus:

@@ -25,7 +25,14 @@ $hero-darken: $dark !default;
 }
 
 .btn {
-  color: red;
+  border: 1px;
+  padding: 10px;
+}
+
+.btn-next-question {
+  color: White;
+  background-color: rgba(4, 96, 201, 1);
+  border-radius: 5px;
 }
 
 .correct {
@@ -33,8 +40,8 @@ $hero-darken: $dark !default;
 }
 
 .bg-correct {
-  background-color: green;
-  opacity: 0.3;
+  background-color: rgb(80, 187, 80);
+
 }
 
 .incorrect {
@@ -42,10 +49,28 @@ $hero-darken: $dark !default;
 }
 
 .bg-incorrect {
-  background-color: red;
-  opacity: 0.3;
+  background-color: rgb(228, 186, 186);
 }
 
 .hidden {
   display: none;
+}
+
+.question-row {
+  margin-bottom: 10px;
+}
+
+.answer {
+  margin-right: 10px;
+}
+
+.quiz {
+  margin-top: 30px;
+
+}
+
+.summary-row {
+  margin-bottom: 20px;
+  border-radius: 5px;
+  padding: 10px;
 }

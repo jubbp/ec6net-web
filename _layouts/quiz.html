@@ -4,38 +4,40 @@ layout: default
 <div class="content">
     {{ content }}
 
-    <div id="quiz">
+    <div id="quiz" class="quiz">
         <div class="question-container" id="question-container">
             <h3>Question: <span id="questionNum"></span> of <span id="totalQuestions"></span></h3>
             <div id="question"></div>
             <img />
         </div>
         <div class="answer-container" id="answer-container">
-            <div class="row">
+            <div class="question-row" id="questionRow1">
                 <input id="a" type="checkbox" class="answer" />
                 <label id="a_text"></label>
             </div>
-            <div class="row">
+            <div class="question-row" id="questionRow2">
                 <input id="b" type="checkbox" class="answer" />
                 <label id="b_text"></label>
             </div>
-            <div class="row">
+            <div class="question-row"" id="questionRow3">
                 <input id="c" type="checkbox" class="answer" />
                 <label id="c_text"></label>
             </div>
-            <div class="row">
+            <div class="question-row"" id="questionRow4">
                 <input id="d" type="checkbox" class="answer" />
                 <label id="d_text"></label>
             </div>
-        
-            <button id="submit" class="btn btn-primary" style="margin-top: 20px;">Submit</button>
+            <button id="submit" class="btn btn-next-question" style="margin-top: 20px;">Next Question
         </div>
 
         <div class="summary-container hidden" id="summary-container">
             <h3>Quiz Complete</h3>
             <p>You answered <span id="completeCorrect"></span> out of <span id=completeTotal></span> questions correctly.</p>
-            <div id="questionSummaryWrapper">
-                
+            <div id="questionSummaryWrapper"></div>
+        </div>
+
+        <div id="returnURLWrapper" class="hidden" style="margin-top: 30px;">
+            <a id="returnLink" href="" class="btn">Return to previous page</button>
         </div>
             
     </div>
@@ -100,22 +102,76 @@ layout: default
             loadQuiz()
 
         }
-
+        
+        {% if page.quizreturnurl %}
+            document.getElementById("returnURLWrapper").classList.remove("hidden")
+            document.getElementById("returnLink").setAttribute("href","{{page.quizreturnurl}}")
+        {% endif %}
 
         
         }
         function loadQuiz() {
 
             deselectAnswers()
+            let rows = document.getElementsByClassName("question-row") 
+            for (row of rows) {
+                row.classList.add("hidden")
+            }
+            
+
             document.getElementById("totalQuestions").innerHTML = {{ page.quizQCount }}
             document.getElementById("questionNum").innerHTML = currentQuiz + 1
             const currentQuizData = quizData[questionNumbers[currentQuiz]]
-            console.log("currentQuizData",currentQuizData)
+            let optionCount = 0
+            if (currentQuizData.a && currentQuizData.a.length > 0) { optionCount += 1 }
+            if (currentQuizData.b && currentQuizData.b.length > 0) { optionCount += 1 }
+            if (currentQuizData.c && currentQuizData.c.length > 0) { optionCount += 1 }
+            if (currentQuizData.d && currentQuizData.d.length > 0) { optionCount += 1 }
+            let optionOrder = generateNRandomIntegers(optionCount, 0,optionCount-1 )
+            console.log("optionOrder", optionOrder)
             questionEl.innerHTML = currentQuizData.question
-            a_text.innerHTML = currentQuizData.a
-            b_text.innerHTML = currentQuizData.b
-            c_text.innerHTML = currentQuizData.c
-            d_text.innerHTML = currentQuizData.d
+            answerCount = 0
+            for (oo of optionOrder) {
+                let optiontext = ""
+                let optionAnswerID = ""
+                if (oo == 0) {
+                    optiontext =  currentQuizData.a
+                    optionAnswerID = "a"
+                } else if (oo == 1) {
+                    optiontext =  currentQuizData.b
+                    optionAnswerID = "b"
+                } else if (oo == 2) {
+                    optiontext =  currentQuizData.c
+                    optionAnswerID = "c"
+                } else if( oo == 3) {
+                    optiontext =  currentQuizData.d
+                    optionAnswerID = "d"
+                }
+                if ( 1 <= optionCount && answerCount == 0) {
+                    a_text.innerHTML = optiontext
+                    document.getElementById("questionRow1").classList.remove("hidden")
+                    document.getElementById("questionRow1").getElementsByTagName("input")[0].setAttribute("id",optionAnswerID)
+                }
+                if (2 <= optionCount && answerCount == 1) {
+                    b_text.innerHTML = optiontext
+                    document.getElementById("questionRow2").classList.remove("hidden")
+                     document.getElementById("questionRow2").getElementsByTagName("input")[0].setAttribute("id",optionAnswerID)
+                    
+                }
+                if (3 <= optionCount && answerCount == 2) {
+                    c_text.innerHTML = optiontext
+                    document.getElementById("questionRow3").classList.remove("hidden")
+                     document.getElementById("questionRow3").getElementsByTagName("input")[0].setAttribute("id",optionAnswerID)
+                }
+                if (4 <= optionCount && answerCount == 3) {
+                    d_text.innerHTML = optiontext
+                    document.getElementById("questionRow4").classList.remove("hidden")
+                     document.getElementById("questionRow4").getElementsByTagName("input")[0].setAttribute("id",optionAnswerID)
+                }   
+                answerCount += 1
+            }
+           
+            
             questImg.src = currentQuizData.img
         }
 
@@ -142,10 +198,12 @@ layout: default
                 if (answer === quizData[currentQuiz].correct) {
                     score++
                 }
-                quizData[currentQuiz].answer = answer
-                questionsAskedInOrder.push(quizData[currentQuiz])
+                quizData[questionNumbers[currentQuiz]].answer = answer
+                questionsAskedInOrder.push(quizData[questionNumbers[currentQuiz]])
+                console.log("question answered", quizData[questionNumbers[currentQuiz]])
+                console.log("question processed",questionsAskedInOrder )
                 currentQuiz++;
-
+                
                 if (currentQuiz < questionNumbers.length) {
                     loadQuiz()
                 } else {
@@ -159,23 +217,69 @@ layout: default
             document.getElementById("question-container").classList.add("hidden")
             document.getElementById("answer-container").classList.add("hidden")
              document.getElementById("summary-container").classList.remove("hidden")
+             
             let qlist = document.getElementById("questionSummaryWrapper")
             let qCount = 1
+            let correctAnswerText = ""
+            let yourAnswerText = ""
+            let htmlText = ""
+            let correctCount = 0
             for (q of questionsAskedInOrder) {
                 let qEvalClass = ""
                 let isCorrect = false
+                switch(q.correct) {
+                case "a":
+                    correctAnswerText = q.a
+                    break
+                case "b":
+                    correctAnswerText = q.b
+                    break
+                case "c":
+                    correctAnswerText = q.c
+                    break
+                case "d":
+                    correctAnswerText = q.d
+                    break
+                }
+                switch(q.answer) {
+                case "a":
+                    yourAnswerText = q.a
+                    break
+                case "b":
+                    yourAnswerText = q.b
+                    break
+                case "c":
+                    yourAnswerText = q.c
+                    break
+                case "d":
+                    yourAnswerText = q.d
+                    break
+                }
                 if (q.answer === q.correct) {
                   qEvalClass = "correct"  
                   isCorrect = true
+                  correctCount += 1
+                 
                 } else {
                     qEvalClass = "incorrect"
                     isCorrect = false
                 }
-                qlist.innerHTML += '<div class="row ' + (!isCorrect ? 'bg-incorrect' : '') + '" style="border-bottom: 1px; padding-bottom: 40px"><h4>Question: ' + qCount + '<i style="margin-left: 10px;" class="fa-regular fa-circle-' + (isCorrect ? 'check correct' : 'xmark incorrect') + '"></i> </h4><div>' + q.question 
-                qlist.innerHTML += ''
-                qlist.innerHTML += '</div></div>'
+                htmlText += '<div class="summary-row ' + (!isCorrect ? 'bg-incorrect' : '') + '" "><h4>Question: ' + qCount + '<i style="margin-left: 10px;" class="fa-regular fa-circle-' + (isCorrect ? 'check correct' : 'xmark incorrect') + '"></i> </h4><div>' + q.question + '</div>'
+                if (isCorrect) {
+                     htmlText += '<div style="padding-left: 10px;">- ' + correctAnswerText + '</div>'
+                } else {
+                    htmlText += '<div style="margin-top: 10px; padding-left: 10px;">You answered: "'+ yourAnswerText +'" but the correct answer was "<b>'+ correctAnswerText +'</b>"</div>'
+                    if (q.answerSummary.length > 0){
+                        htmlText += '<div style="margin-top: 10px;"><b>Explanation: </b><br>'+ q.answerSummary + '</div>'
+                    }
+                }
+                htmlText += '</div>'
+                correctAnswerText = ""
                 qCount += 1
             }
+            qlist.innerHTML = htmlText
+            document.getElementById("completeCorrect").innerText = correctCount
+            document.getElementById("completeTotal").innerText = questionsAskedInOrder.length
         }
         function generateNRandomIntegers(n, min, max) {
                 const randomIntegers = [];

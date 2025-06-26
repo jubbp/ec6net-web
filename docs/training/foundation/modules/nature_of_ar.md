@@ -143,44 +143,10 @@ The following table outlines the bands available to the Foundation level operato
 
 ## Sample Questions
 
-Below are some sample questions you may encounter in your exam.
+Review your knowledge of this section by taking a short quiz.
 
+[Take the Quiz](../foundation_Nature_Quiz/)
 
-1. **A Foundation Amateur operator who is operating Upper Side Band on Frequency 14.349 is:**  
-  * (A) Operating within their license conditions
-  * (B) Operating too close to the band edge
-  * (C) Operating outside of foundation priviledges
-  * (D) All of the above
- 
-   **Answer: C** - The foundation qualification does not allow transmission on the 20m band.  
-
----
-
-1. **A Foundation Amateur operator who is transmitting on 7.001 using Amplitude Modulation is:**
-  * (A) operating within their license conditions 
-  * (B) operating too close to the band edge
-  * (C) operating outside their license conditions
-  * (D) none of the above  
-
-   **Answer: B** - AM Modulation extends for 3KHz below the dial frequency which would be out of the 40m band.  
-
----
-
-1. **An Amateur Operator is approached to transmit a message on behalf of a friend to another operator. The friend offer a few dollars to get the message through quickly. Should the operator send the message?**
-  * (A) Yes
-  * (B) No  
-
-   **Answer: B** - Amateur operators are not permitted to operate their stations for financial gain.  
-   
----
-
-1. **Amateur Radio in Australia is subject to the following legislation and regulations:**
-  * (A) Amateur Radio Class License 2023
-  * (B) Radiocommunications Act 1992
-  * (C) Amateur License Conditions Determination 2015
-  * (D) All of the above
-
-   **Answer: D - All list legislation and regulations.  
 
 ---
   

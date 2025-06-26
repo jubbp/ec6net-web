@@ -1,0 +1,99 @@
+[
+    {
+        "question": "The government body that administers amateur radio in Australia is?",
+        "correct": "c",
+        "a": "ARRL",
+        "b": "Wireless Institute of Australia",
+        "c": "The Australian Communications and Media Authority",
+        "d": "The Department of Communications",
+        "img": "",
+        "answer": "",
+        "answerSummary": "The Australian Communications and Media authority (ACMA) administers all communications in australia, including Amateur Radio."
+    },
+    {
+        "question": "Amateur Radio is subject to the following legislation and regulations:",
+        "correct": "d",
+        "a": "Radiocommunications Act 1992",
+        "b": "Amateur Radio Class License 2023",
+        "c": "Amater Radio License Conditions Determination 2015",
+        "d": "All of the above",
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
+    },
+    {
+        "question": "An amateur radio operator is approached to transmit message on behalf of a friend to another operator. The friend offers a few dollars to get the message through quickly. Should the operator send the message?",
+        "correct": "b",
+        "a": "Yes",
+        "b": "No",
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
+    },
+    {
+        "question": "One of the purposes of the Amateur Service is –",
+        "correct": "d",
+        "a": "To contact vessels in distress",
+        "b": "To reduce congestion on the internet",
+        "c": "To provide an alternative to mobile telephone services",
+        "d": "To allow self-training in radiocommunications",
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
+    },
+    {
+        "question": "Amateur transmissions must include –",
+        "correct": "d",
+        "a": "The reason for the transmission",
+        "b": "The station location",
+        "c": "The operators name",
+        "d": "The station identification",
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
+    },
+    {
+        "question": "A radio amateur should announce their callsign: ",
+        "correct": "b",
+        "a": "during silent periods",
+        "b": "at the beginning of the first transmission and then at least every 10 minutes",
+        "c": "at the beginning and end of every transmission",
+        "d": "at the beginning and end of a series of transmissions",
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
+    },
+    {
+        "question": "An amateur radio licence authorises the holder to communicate with:",
+        "correct": "b",
+        "a": "other amateur radio operators and CB radio operators",
+        "b": "other amateur radio operators only",
+        "c": "any two-way radio services on HF (3-30 MHz)",
+        "d": "Land mobile services",
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
+    },
+    {
+        "question": "An amateur radio operator must produce their evidence of qualification if requested to do so by:",
+        "correct": "c",
+        "a": "a Wireless Institute of Australia inspector",
+        "b": "a Wireless Institute of Australia assesso",
+        "c": "an ACMA inspector",
+        "d": "a Federal or State police officer",
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
+    },
+    {
+        "question": "The ionosphere is primarily charged by",
+        "correct": "b",
+        "a": "your radio transmissions",
+        "b": "ultraviolet radiation from the sun",
+        "c": "cosmic radiation",
+        "d": "ionospheric storms",
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
+    }
+]
