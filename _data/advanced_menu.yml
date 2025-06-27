@@ -2,7 +2,26 @@
   items:
     - name: Introduction
       link: /docs/training/advanced
-
+    - name: Electrical, electro-mechnical and radio theory
+      link: /docs/training/advanced/modules/electrical/
+    - name: Components
+      link: /docs/training/advanced/modules/components/
+    - name: Circuits
+      link: /docs/training/advanced/modules/circuits/
+    - name: Receivers
+      link: /docs/training/advanced/modules/receivers/
+    - name: Transmitters
+      link: /docs/training/advanced/modules/transmitters/
+    - name: Antennas & Transmission Lines
+      link: /docs/training/advanced/modules/antennas/
+    - name: Propagation
+      link: /docs/training/advanced/modules/propagation/
+    - name: Measurements
+      link: /docs/training/advanced/modules/easurements/
+    - name: Interference and immunity
+      link: /docs/training/advanced/modules/interference/
+    - name: Safety
+      link: /docs/training/advanced/modules/safety/
     - name: Assessment Tips
       link: /docs/training/advanced/modules/assessment/
     - name: Return to Training Menu
