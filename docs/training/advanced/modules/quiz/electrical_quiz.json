@@ -38,7 +38,7 @@
         "a": "voltage, current and resistance",
         "b": "voltage, current and power",
         "c": "conductors and their insulation",
-        "d": "watts, volts amd potential difference",
+        "d": "watts, volts and potential difference",
         "img": "",
         "answer": "",
         "answerSummary": ""
@@ -50,6 +50,17 @@
         "b": "states that voltage of a circuit must equal zero",
         "c": "Indicates the direction of flow of eletrons in an inductor",
         "d": "adds all the currents in a circuit",
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
+    },
+    {
+        "question": "A circuit that includes a lamp. The voltage of the battery is 12 Volts and the current drawn by the cicuit is 2 amps, what is the resistance of the lamp?",
+        "correct": "a",
+        "a": "6 Ohms",
+        "b": "6 Volts",
+        "c": "0.6 Ohms",
+        "d": "24 amps",
         "img": "",
         "answer": "",
         "answerSummary": ""
