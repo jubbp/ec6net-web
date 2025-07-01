@@ -11,23 +11,23 @@ layout: default
             <img />
         </div>
         <div class="answer-container" id="answer-container">
-            <div class="question-row" id="questionRow1">
+            <div class="question-row" id="questionRow1" style="display: flex;">
                 <input id="a" type="checkbox" class="answer" />
                 <label id="a_text"></label>
             </div>
-            <div class="question-row" id="questionRow2">
+            <div class="question-row" id="questionRow2" style="display: flex;">
                 <input id="b" type="checkbox" class="answer" />
                 <label id="b_text"></label>
             </div>
-            <div class="question-row"" id="questionRow3">
+            <div class="question-row"" id="questionRow3" style="display: flex;">
                 <input id="c" type="checkbox" class="answer" />
                 <label id="c_text"></label>
             </div>
-            <div class="question-row"" id="questionRow4">
+            <div class="question-row"" id="questionRow4" style="display: flex;">
                 <input id="d" type="checkbox" class="answer" />
                 <label id="d_text"></label>
             </div>
-            <button id="submit" class="btn btn-next-question" style="margin-top: 20px;">Next Question
+            <button id="submit" class="btn btn-next-question" style="margin-top: 20px;">Next Question</button>
         </div>
 
         <div class="summary-container hidden" id="summary-container">
@@ -37,9 +37,9 @@ layout: default
         </div>
 
         <div id="returnURLWrapper" class="hidden" style="margin-top: 30px;">
-            <a id="returnLink" href="" class="btn">Return to previous page</button>
+            <a id="returnLink1" href="" class="btn">Return to previous page</a>
         </div>
-            
+
     </div>
 </div>
 
@@ -60,7 +60,7 @@ layout: default
         var questionsAskedInOrder = []
 
         init()
-        
+
         let currentQuiz = 0
         let score = 0
 
@@ -94,7 +94,7 @@ layout: default
         console.log("qCount",{{ page.quizQCount }})
         if ({{ page.quizQCount }} > quizData.length) {
             console.log("Not enough questions in quiz")
-            
+
         } else {
 
             questionNumbers = generateNRandomIntegers({{ page.quizQCount }}, 0,quizData.length-1 )
@@ -102,22 +102,22 @@ layout: default
             loadQuiz()
 
         }
-        
+
         {% if page.quizreturnurl %}
             document.getElementById("returnURLWrapper").classList.remove("hidden")
-            document.getElementById("returnLink").setAttribute("href","{{page.quizreturnurl}}")
+            document.getElementById("returnLink1").setAttribute("href","{{page.quizreturnurl}}")
         {% endif %}
 
-        
+
         }
         function loadQuiz() {
 
             deselectAnswers()
-            let rows = document.getElementsByClassName("question-row") 
+            let rows = document.getElementsByClassName("question-row")
             for (row of rows) {
                 row.classList.add("hidden")
             }
-            
+
 
             document.getElementById("totalQuestions").innerHTML = {{ page.quizQCount }}
             document.getElementById("questionNum").innerHTML = currentQuiz + 1
@@ -156,7 +156,7 @@ layout: default
                     b_text.innerHTML = optiontext
                     document.getElementById("questionRow2").classList.remove("hidden")
                      document.getElementById("questionRow2").getElementsByTagName("input")[0].setAttribute("id",optionAnswerID)
-                    
+
                 }
                 if (3 <= optionCount && answerCount == 2) {
                     c_text.innerHTML = optiontext
@@ -167,11 +167,11 @@ layout: default
                     d_text.innerHTML = optiontext
                     document.getElementById("questionRow4").classList.remove("hidden")
                      document.getElementById("questionRow4").getElementsByTagName("input")[0].setAttribute("id",optionAnswerID)
-                }   
+                }
                 answerCount += 1
             }
-           
-            
+
+
             questImg.src = currentQuizData.img
         }
 
@@ -203,7 +203,7 @@ layout: default
                 console.log("question answered", quizData[questionNumbers[currentQuiz]])
                 console.log("question processed",questionsAskedInOrder )
                 currentQuiz++;
-                
+
                 if (currentQuiz < questionNumbers.length) {
                     loadQuiz()
                 } else {
@@ -217,7 +217,7 @@ layout: default
             document.getElementById("question-container").classList.add("hidden")
             document.getElementById("answer-container").classList.add("hidden")
              document.getElementById("summary-container").classList.remove("hidden")
-             
+
             let qlist = document.getElementById("questionSummaryWrapper")
             let qCount = 1
             let correctAnswerText = ""
@@ -256,10 +256,10 @@ layout: default
                     break
                 }
                 if (q.answer === q.correct) {
-                  qEvalClass = "correct"  
+                  qEvalClass = "correct"
                   isCorrect = true
                   correctCount += 1
-                 
+
                 } else {
                     qEvalClass = "incorrect"
                     isCorrect = false
@@ -293,7 +293,7 @@ layout: default
 
                 for (let i = 0; i < n; i++) {
                     // Generate a random integer between min (inclusive) and max (inclusive)
-                    
+
                     var foundNotUnique = true
 
                     while (foundNotUnique) {
@@ -302,11 +302,11 @@ layout: default
                             randomIntegers.push(randomNumber);
                             foundNotUnique = false
                         }
-                    } 
-                    
-                    
+                    }
+
+
                 }
 
             return randomIntegers;
-        }          
+        }
 </script>
