@@ -1,14 +1,69 @@
 [
     {
-        "question": "The government body that administers amateur radio in Australia is?",
-        "correct": "c",
-        "a": "ARRL",
-        "b": "Wireless Institute of Australia",
-        "c": "The Australian Communications and Media Authority",
-        "d": "The Department of Communications",
+        "question": "A conductor is?",
+        "correct": "a",
+        "a": "a material thats allows electric current to flow through it easily.",
+        "b": "a material that allows voltage to flow through it easily",
+        "c": "the leader of an orchestra",
+        "d": "usually made of rubber",
         "img": "",
         "answer": "",
-        "answerSummary": "The Australian Communications and Media authority (ACMA) administers all communications in australia, including Amateur Radio."
+        "answerSummary": ""
+    },
+    {
+        "question": "An example of a good conductor is",
+        "correct": "a",
+        "a": "gold.",
+        "b": "glass",
+        "c": "rubber",
+        "d": "silicone",
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
+    },
+    {
+        "question": "An insulator is",
+        "correct": "a",
+        "a": "a material thsta resists the flow of current",
+        "b": "usually made of aluminium",
+        "c": "designed to keep the heat in",
+        "d": "helps a circuit keep the elctron flowing",
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
+    },
+    {
+        "question": "Ohms Law describes the relationship between",
+        "correct": "a",
+        "a": "voltage, current and resistance",
+        "b": "voltage, current and power",
+        "c": "conductors and their insulation",
+        "d": "watts, volts and potential difference",
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
+    },
+    {
+        "question": "Kirkoffs Current Law",
+        "correct": "a",
+        "a": "states the sum of current leaving a circuit must equal the sum of the current entering",
+        "b": "states that voltage of a circuit must equal zero",
+        "c": "Indicates the direction of flow of eletrons in an inductor",
+        "d": "adds all the currents in a circuit",
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
+    },
+    {
+        "question": "A circuit that includes a lamp. The voltage of the battery is 12 Volts and the current drawn by the cicuit is 2 amps, what is the resistance of the lamp?",
+        "correct": "a",
+        "a": "6 Ohms",
+        "b": "6 Volts",
+        "c": "0.6 Ohms",
+        "d": "24 amps",
+        "img": "",
+        "answer": "",
+        "answerSummary": ""
     }
 
 ]

@@ -7,6 +7,7 @@ menubar: advanced_menu
 toc: false
 quizQCount: 5
 quizfile: electrical_quiz
+returnLink:
 ---
 
 ## Electrical, electro-mechanical and radio theory Quiz

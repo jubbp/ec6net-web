@@ -97,8 +97,7 @@ Electric power is crucial for understanding how quickly electrical devices use o
 
 ## Knowledge Check
 
-[Electrical, electro-mechanical and radio theory](../quiz/electrical_quiz/){: .btn}
-
+[Electrical and radio theory](../quiz/electrical_quiz/){: .btn}
 ---
 
 [Next Module: TODO](./todo){: .btn }

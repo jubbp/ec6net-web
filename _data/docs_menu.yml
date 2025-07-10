@@ -1,36 +1,42 @@
 - label: Getting Involved
   items:
     - name: Membership
-      link: /docs/get-involved/membership
+      link: /docs/get-involved/membership/
     - name: Nets
-      link: /docs/get-involved/nets
+      link: /docs/get-involved/nets/
     - name: Parks on the Air
-      link: /docs/get-involved/pota
+      link: /docs/get-involved/pota/
     - name: Capabilities
-      link: /docs/capabilities
+      link: /docs/capabilities/
+    - name: Training
+      link: /docs/training/
 - label: Messaging
   items:
     - name: JS8Call
-      link: /docs/messagin/js8call
+      link: /docs/messagin/js8call/
     - name: APRS Messaging
-      link: /docs/messaging/aprs
+      link: /docs/messaging/aprs/
     - name: Packet Radio
-      link: /docs/messaging/packet
+      link: /docs/messaging/packet/
     - name: Winlink
-      link: /docs/messaging/winlink
+      link: /docs/messaging/winlink/
     - name: Meshtastic
-      link: /docs/messaging/meshtastic
+      link: /docs/messaging/meshtastic/
+- label: Voice
+  items:
+    - name: Allstar Link
+      link /docs/allstar/  
 - label: Reference
   items:
     - name: VHF Colocation
-      link: /docs/VHF-colocation
+      link: /docs/VHF-colocation/
     - name: Field Guides
-      link: /docs/references/fieldguides
+      link: /docs/references/fieldguides/
     - name: Manuals
-      link: /docs/references/manuals
+      link: /docs/references/manuals/
     - name: Software
-      link: /docs/references/software
+      link: /docs/references/software/
     - name: Standards
-      link: /docs/references/standards
+      link: /docs/references/standards/
 
 
