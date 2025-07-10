@@ -1,11 +1,11 @@
-—
+---
 title: All Star
 subtitle: Internet based repeater and node linking
 layout: page
 show_sidebar: false
 menubar: docs_menu
 toc: true
-—
+---
 
 ## Introduction
 
