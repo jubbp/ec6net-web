@@ -22,6 +22,10 @@
       link: /docs/messaging/winlink/
     - name: Meshtastic
       link: /docs/messaging/meshtastic/
+- label: Voice
+  items:
+    - name: Allstar Link
+      link /docs/allstar/  
 - label: Reference
   items:
     - name: VHF Colocation
