@@ -113,8 +113,9 @@ Two members of the list make contact and organise a meetup. The originating pony
 
 ## Shortwave Listening
 
-|Frequency|Info|Date|UTC|
-|---|---|---|---|
-|15.760|Asian Station|20250921|11:28|
-|15.800|Asian Station|20250921|11:28|
+|Frequency|Info|Date|UTC|Notes|
+|---|---|---|---|---|
+|7.425|RNZ - Radio New Zealand|20250921|11:38|[Schedule](https://www.rnz.co.nz/international/listen)|
+|15.760|Asian Station ??|20250921|11:28||
+|15.800|Asian Station ??|20250921|11:28||
 
