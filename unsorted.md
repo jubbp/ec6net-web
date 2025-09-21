@@ -118,4 +118,4 @@ Two members of the list make contact and organise a meetup. The originating pony
 |7.425|RNZ - Radio New Zealand 8:00-1258 UTC|20250921|11:38|[Schedule](https://www.rnz.co.nz/international/listen)|
 |15.760|Asian Station ??|20250921|11:28||
 |15.800|Asian Station ??|20250921|11:28||
-
+|21.565|BBC World Service |20250921| 00:00|English Language News on the Hour|
