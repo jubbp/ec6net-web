@@ -86,3 +86,35 @@ Charging your batteries while portable or on backup power is an important consid
 Build a HT based repeater in a case for extending coverage.
 
 [Suitcase Repeater](https://www.youtube.com/watch?v=mscSu7FC86E)
+
+## Pony Express
+
+First off - find a new name.
+
+The Pony Express is a method of moving people and equipment with no significant cost to any one member. Operators sign up to be part of the pony express and undertake to offer transport when required.
+
+It won't be the quickest transport solution but free and unencumberred by rules/regulations.
+
+### The Pony List
+
+Users sign up to be part of the list. Those that make regular trips away from their home area can advertise the fact.
+
+| Operator | Location | NESW Extents | Regular Trips |
+|---|---|---|---|
+| Tom | Bunbury | Myalup, Capel, Burekup | Weekly trips to Donnybrook |
+| Roger | Eaton | Mandurah, Donnybrook, Capel | Daily Trips Eaton to Collie |
+| Andrew | Eaton | Myalup/Harvey, Greenbushes, Capel | Daily trips to Greenbushes |
+
+### RFT - Request for Transport
+
+A Member of the net will issue a request for transport.
+
+Two members of the list make contact and organise a meetup. The originating pony will contact the recieving pony with details and availability.
+
+## Shortwave Listening
+
+|Frequency|Info|Date|UTC|
+|---|---|---|---|
+|15.760|Asian Station|20250921|11:28|
+|15.800|Asian Station|20250921|11:28|
+
